@@ -48,6 +48,14 @@
           "enabled": true
         },
         {
+          "id": "1763130647323",
+          "title": "爱壹帆-海量高清视频免费在线观看",
+          "href": "https://www.iyf.lv/",
+          "description": "爱壹帆每天发布最新电影和电视剧,为广大用户免费提供无广告在线观看电影和电视剧服务,及时收录最新、最热、最全的电影大片,4K高清免费看",
+          "icon": "/assets/favicon_1763130653220.png",
+          "enabled": true
+        },
+        {
           "id": "1763128966654",
           "title": "真狼影视-在线免费看视频-2025看起视频一点不浪！",
           "href": "https://www.zhenlang.cc/",
@@ -77,14 +85,6 @@
           "href": "https://www.netflixgc.com/",
           "description": "一个致力于免费提供奈飞影剧动漫的流媒体播放平台",
           "icon": "/assets/favicon_1763130510114.png",
-          "enabled": true
-        },
-        {
-          "id": "1763130647323",
-          "title": "爱壹帆-海量高清视频免费在线观看",
-          "href": "https://www.iyf.lv/",
-          "description": "爱壹帆每天发布最新电影和电视剧,为广大用户免费提供无广告在线观看电影和电视剧服务,及时收录最新、最热、最全的电影大片,4K高清免费看",
-          "icon": "/assets/favicon_1763130653220.png",
           "enabled": true
         }
       ],
