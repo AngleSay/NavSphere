@@ -94,6 +94,14 @@
           "description": "全网VIP点映免费观看",
           "icon": "/assets/favicon_1763131416372.png",
           "enabled": true
+        },
+        {
+          "id": "1763131699470",
+          "title": "FreeOK - 追剧也很卷",
+          "href": "https://www.freeokk.me/",
+          "description": "FreeOK-追剧也很卷，为您提供2025最新电视剧、最新电影、动漫番剧、学习课程，蓝光视频免费在线观看服务，无广告不卡，每天第一时间更新！",
+          "icon": "/assets/favicon_1763131704497.png",
+          "enabled": true
         }
       ],
       "subCategories": []
