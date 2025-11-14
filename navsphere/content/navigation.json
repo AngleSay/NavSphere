@@ -1390,6 +1390,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1763113379882",
+      "title": "影视大全",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
