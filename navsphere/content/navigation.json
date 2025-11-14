@@ -54,6 +54,14 @@
           "description": "老地方影院为您提供免费热门电影,电视剧,综艺,动漫在线观看,给您更好的视频观看体验,做最好用的海外华人影院!",
           "icon": "/assets/favicon_1763129119388.png",
           "enabled": true
+        },
+        {
+          "id": "1763129861448",
+          "title": "爱看机器人-ikanbot.com",
+          "href": "https://v.ikanbot.com/",
+          "description": "爱看机器人-ikanbot.com,是一个利用网络爬虫技术检索全网免费在线观看影视资源的搜素引擎。",
+          "icon": "/assets/favicon_1763129866898.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
