@@ -70,6 +70,14 @@
           "description": "泥视频全球华人在线视频媒体平台，即点即播！免费提供2023最新高清的电影,电视剧,综艺,动漫,台劇,日劇,泰劇等。",
           "icon": "/assets/favicon_1763130084894.ico",
           "enabled": true
+        },
+        {
+          "id": "1763130504886",
+          "title": "奈飞工厂-一个致力于免费提供Netflix影剧动漫的流媒体播放平台&ndash;奈飞工厂 NetflixGC | NetflixGC.com",
+          "href": "https://www.netflixgc.com/",
+          "description": "一个致力于免费提供奈飞影剧动漫的流媒体播放平台",
+          "icon": "/assets/favicon_1763130510114.png",
+          "enabled": true
         }
       ],
       "subCategories": []
