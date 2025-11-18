@@ -113,6 +113,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1763429130266",
+      "title": "网盘搜索",
+      "icon": "Box",
+      "description": "网盘搜索",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
