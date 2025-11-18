@@ -144,6 +144,14 @@
           "description": "小鸟搜索优秀云盘搜索网站，每日实时录入新资源，支持百度云盘搜索,阿里云盘搜索,夸克云盘搜索,等主流云盘搜索服务,支持在线云盘提取码查询,www.birdiesearch.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.birdiesearch.com",
           "enabled": true
+        },
+        {
+          "id": "site_1763429439156_q84j8shxt",
+          "title": "Pansoso",
+          "href": "https://www.pansoso.com/",
+          "description": "访问 www.pansoso.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pansoso.com",
+          "enabled": true
         }
       ],
       "subCategories": []
