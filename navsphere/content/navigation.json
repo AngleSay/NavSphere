@@ -136,6 +136,14 @@
           "description": "UP云搜 聚合网盘搜索神器，提供 阿里云盘、夸克网盘、百度网盘、蓝奏网盘、迅雷网盘、天翼网盘、彩和网盘 等网盘资源搜索。更新快、资源全、速度快、免费。",
           "icon": "/assets/favicon_1763429215023.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1763429358368_tb79o4dkx",
+          "title": "小鸟搜索 | BirdieSearch | 云盘搜索",
+          "href": "https://www.birdiesearch.com/",
+          "description": "小鸟搜索优秀云盘搜索网站，每日实时录入新资源，支持百度云盘搜索,阿里云盘搜索,夸克云盘搜索,等主流云盘搜索服务,支持在线云盘提取码查询,www.birdiesearch.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.birdiesearch.com",
+          "enabled": true
         }
       ],
       "subCategories": []
