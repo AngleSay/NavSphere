@@ -128,6 +128,14 @@
           "description": "盘了个盘 聚合云盘高效搜索，提供 阿里云盘、夸克网盘、百度网盘、蓝奏网盘、迅雷网盘、天翼网盘、彩和网盘 等网盘资源搜索。更新快、资源全、速度快、免费。",
           "icon": "/assets/favicon_1763429187386.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1763429220022_lubhh5vy5",
+          "title": "UP云搜 - 网盘资源搜索神器",
+          "href": "https://www.upyunso.com/",
+          "description": "UP云搜 聚合网盘搜索神器，提供 阿里云盘、夸克网盘、百度网盘、蓝奏网盘、迅雷网盘、天翼网盘、彩和网盘 等网盘资源搜索。更新快、资源全、速度快、免费。",
+          "icon": "/assets/favicon_1763429215023.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
