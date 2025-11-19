@@ -184,6 +184,14 @@
           "description": "阿里云盘,百度网盘,夸克网盘资源搜索工具",
           "icon": "/assets/favicon_1763553951922.ico",
           "enabled": true
+        },
+        {
+          "id": "1763554136943",
+          "title": "阿里云盘资源搜索引擎 - 阿里搜",
+          "href": "https://aliso.cc/",
+          "description": "阿里搜是专业的阿里云盘搜索引擎，全网千万级的云盘资源每日更新，包括考研,电影,动漫,视频,图书,软件,文档,音乐,等优质网盘资源。",
+          "icon": "/assets/favicon_1763554143901.png",
+          "enabled": true
         }
       ],
       "subCategories": []
