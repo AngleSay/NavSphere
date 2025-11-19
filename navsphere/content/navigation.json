@@ -200,6 +200,14 @@
           "description": "咔帕搜索（www.CuppaSo.com）是一个资源超丰富的综合资源搜索网站,咔帕搜索专注于收录全网综合盘资源，包括：影视资源、音乐资源、图片资源、电子书资源、软件资源、小说资源等等。只需要输入关键词即可搜索综合云盘资源,直接提供综合云盘分享链接,大家可以保存至自己的综合云盘,或者直接下载。",
           "icon": "/assets/favicon_1763554216045.png",
           "enabled": true
+        },
+        {
+          "id": "1763554299584",
+          "title": "PanSou 盘搜",
+          "href": "https://s.panhunt.com/",
+          "description": "PanHunt 官方基于开源项目提供的聚合搜索服务",
+          "icon": "/assets/favicon_1763554304693.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
