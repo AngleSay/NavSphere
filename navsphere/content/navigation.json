@@ -221,6 +221,15 @@
       "subCategories": []
     },
     {
+      "id": "1763568315734",
+      "title": "资源论坛",
+      "icon": "Globe",
+      "description": "资源论坛",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1763429828440",
       "title": "搜索引擎",
       "icon": "Network",
@@ -236,15 +245,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1763568315734",
-      "title": "资源论坛",
-      "icon": "Globe",
-      "description": "资源论坛",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
