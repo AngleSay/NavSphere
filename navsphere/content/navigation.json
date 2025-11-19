@@ -126,6 +126,14 @@
           "description": "Free online 4k movies and tv shows with high quality and fast streaming speed with no ads and no limits !",
           "icon": "/assets/favicon_1763553711046.ico",
           "enabled": true
+        },
+        {
+          "id": "1763568929229",
+          "title": "永乐视频-全平台最新4K高清电影视频免费在线观看",
+          "href": "https://www.ylsp.lv/",
+          "description": "永乐视频免费提供最新4K高清电影在线观看,最热门电视剧免费下载,收录最全的综艺片,动漫,台剧,日剧,泰剧,韩剧,美剧,全都有.用心做好站,全球更新最快No.1",
+          "icon": "/assets/favicon_1763568943673.png",
+          "enabled": true
         }
       ],
       "subCategories": []
