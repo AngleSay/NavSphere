@@ -176,6 +176,14 @@
           "description": "飞鱼盘搜是一个强大的网盘资源搜索引擎，帮助您快速找到需要的文件、视频、音乐等网盘资源。支持实时搜索、资源分类浏览。",
           "icon": "/assets/favicon_1763538843872.ico",
           "enabled": true
+        },
+        {
+          "id": "1763553945858",
+          "title": "盘友圈",
+          "href": "https://panyq.com/",
+          "description": "阿里云盘,百度网盘,夸克网盘资源搜索工具",
+          "icon": "/assets/favicon_1763553951922.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
