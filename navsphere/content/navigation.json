@@ -318,6 +318,14 @@
           "description": "雨花阁是一个专注于磁力资源搜索的网站",
           "icon": "/assets/favicon_1763609629822.ico",
           "enabled": true
+        },
+        {
+          "id": "1763609693053",
+          "title": "BT搜索",
+          "href": "https://ck.cilido.top/",
+          "description": "科学上网，请记住永久网址 ciliduo.org",
+          "icon": "/assets/favicon_1763609700059.png",
+          "enabled": true
         }
       ],
       "subCategories": []
