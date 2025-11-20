@@ -303,6 +303,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1763609550450",
+      "title": "BT搜索",
+      "icon": "Link",
+      "description": "BT 链接搜索",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
