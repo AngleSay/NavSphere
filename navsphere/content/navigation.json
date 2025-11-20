@@ -310,7 +310,16 @@
       "icon": "Link",
       "description": "BT 链接搜索",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1763609626836",
+          "title": "雨花阁 - 简单纯粹的搜索引擎",
+          "href": "https://www.iyuhuage.fun/",
+          "description": "雨花阁是一个专注于磁力资源搜索的网站",
+          "icon": "/assets/favicon_1763609629822.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
