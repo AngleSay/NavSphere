@@ -332,6 +332,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "site_1763720543424_ws634s6g9",
+          "title": "网盘资源分享",
+          "href": "https://www.yunpanziyuan.xyz/",
+          "description": "云盘资源网是完全免费的云盘资源分享平台！我们为所有百度网盘、夸克网盘、AL云盘、360云盘、微云、坚果云等所有云盘用户提供服务！您可以自由分享和获取各类云盘网盘资源！\n永久发布页: yunpanziyuan.top",
+          "icon": "/assets/favicon_1763720495509.ico",
+          "enabled": true
+        },
+        {
           "id": "1763568386270",
           "title": "Panwiki - （原我的小站论坛）",
           "href": "https://pan666.net/",
@@ -345,14 +353,6 @@
           "href": "https://aliyunpan1.com/",
           "description": "阿里云盘资源论坛，提供不限于阿里云盘资源、夸克网盘资源、百度网盘资源等各类网盘资源，影视资源、学习资源、软件资源、动漫资源、游戏资源等综合资源论坛。",
           "icon": "/assets/favicon_1763568496236.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1763720543424_ws634s6g9",
-          "title": "网盘资源分享",
-          "href": "https://www.yunpanziyuan.xyz/",
-          "description": "云盘资源网是完全免费的云盘资源分享平台！我们为所有百度网盘、夸克网盘、AL云盘、360云盘、微云、坚果云等所有云盘用户提供服务！您可以自由分享和获取各类云盘网盘资源！\n永久发布页: yunpanziyuan.top",
-          "icon": "/assets/favicon_1763720495509.ico",
           "enabled": true
         },
         {
