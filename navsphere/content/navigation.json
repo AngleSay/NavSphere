@@ -280,6 +280,14 @@
           "description": "备用站点：https://www.feizhupan.com ，https://www.dalipan.xyz ，请保存到浏览器书签中",
           "icon": "/assets/favicon_1763718942204.png",
           "enabled": true
+        },
+        {
+          "id": "site_1763720185095_1oyva7nr5",
+          "title": "口袋云",
+          "href": "https://www.woxiangsou.com/",
+          "description": "收集均来自于百度/阿里/夸克等网盘公开分享的链接",
+          "icon": "/assets/favicon_1763720137498.png",
+          "enabled": true
         }
       ],
       "subCategories": []
