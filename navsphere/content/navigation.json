@@ -142,6 +142,14 @@
           "description": "搜片.com 聚合全网影片，你想看的全都找得到！每天搜集最新电影、电视剧、在线观看网址、蓝光高清正版免费看！",
           "icon": "/assets/favicon_1763569072680.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1763719101044_4zohgoodg",
+          "title": "Nkvod",
+          "href": "https://nkvod.me/",
+          "description": "耐看点播发布页：https://nkvlog.us/",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nkvod.me",
+          "enabled": true
         }
       ],
       "subCategories": []
