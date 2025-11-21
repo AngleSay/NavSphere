@@ -288,6 +288,14 @@
           "description": "收集均来自于百度/阿里/夸克等网盘公开分享的链接",
           "icon": "/assets/favicon_1763720137498.png",
           "enabled": true
+        },
+        {
+          "id": "site_1763720271042_eakj2tkwj",
+          "title": "猫狸盘搜",
+          "href": "https://www.alipansou.com/",
+          "description": "",
+          "icon": "/assets/favicon_1763720257748.png",
+          "enabled": true
         }
       ],
       "subCategories": []
