@@ -354,6 +354,14 @@
           "description": "云盘资源网是完全免费的云盘资源分享平台！我们为所有百度网盘、夸克网盘、AL云盘、360云盘、微云、坚果云等所有云盘用户提供服务！您可以自由分享和获取各类云盘网盘资源！\n永久发布页: yunpanziyuan.top",
           "icon": "/assets/favicon_1763720495509.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1763720726674_ka1ly65jn",
+          "title": "123分享社区",
+          "href": "https://www.123panfx.com/",
+          "description": "123分享是一个非官方的站点，主要分享123云盘的资源下载。本站不储存、复制、传播、控制编辑任何网盘文件，也不提供下载服务，其链接跳转至各大网盘，文件的有效性和安全性需要您自行判断，如有侵权内容请联系我们。",
+          "icon": "/assets/favicon_1763720721214.png",
+          "enabled": true
         }
       ],
       "subCategories": []
