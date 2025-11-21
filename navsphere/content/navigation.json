@@ -256,6 +256,14 @@
           "description": "凌风云搜索是互联网专业的阿里云盘，百度网盘等十大网盘搜索引擎，是网盘资源搜索中心.",
           "icon": "/assets/favicon_1763718823192.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1763718956182_02dsc5vd3",
+          "title": "Dalipan",
+          "href": "https://www.dalipan.com/",
+          "description": "备用站点：https://www.feizhupan.com ，https://www.dalipan.xyz ，请保存到浏览器书签中",
+          "icon": "/assets/favicon_1763718942204.png",
+          "enabled": true
         }
       ],
       "subCategories": []
