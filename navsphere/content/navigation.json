@@ -312,6 +312,14 @@
           "description": "学霸盘是百度网盘资源搜索引擎，提供抖音,短视频,课程,考研,PPT模板,电子书,会计,计算机等热门资源，实时检查无效资源，帮您更快捷的获取网盘资源下载信息。",
           "icon": "/assets/favicon_1763720608069.png",
           "enabled": true
+        },
+        {
+          "id": "site_1763720704729_sxmaebyp6",
+          "title": "地瓜搜",
+          "href": "http://dg.digua.fit/",
+          "description": "地瓜搜是一个以提供网盘搜索相关服务为基础的娱乐网站，致力于提供网盘资源搜索、网盘资源分享",
+          "icon": "/assets/favicon_1763720699437.png",
+          "enabled": true
         }
       ],
       "subCategories": []
