@@ -340,19 +340,19 @@
           "enabled": true
         },
         {
-          "id": "1763568386270",
-          "title": "Panwiki - （原我的小站论坛）",
-          "href": "https://pan666.net/",
-          "description": "Panwiki - （原我的小站论坛）",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pan666.net",
-          "enabled": true
-        },
-        {
           "id": "1763568489579",
           "title": "阿里云盘资源论坛 - 自由至上",
           "href": "https://aliyunpan1.com/",
           "description": "阿里云盘资源论坛，提供不限于阿里云盘资源、夸克网盘资源、百度网盘资源等各类网盘资源，影视资源、学习资源、软件资源、动漫资源、游戏资源等综合资源论坛。",
           "icon": "/assets/favicon_1763568496236.png",
+          "enabled": true
+        },
+        {
+          "id": "1763568386270",
+          "title": "Panwiki - （原我的小站论坛）",
+          "href": "https://pan666.net/",
+          "description": "Panwiki - （原我的小站论坛）",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pan666.net",
           "enabled": true
         },
         {
