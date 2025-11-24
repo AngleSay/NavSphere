@@ -417,6 +417,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1763962937252",
+      "title": "开心一笑",
+      "icon": "Bell",
+      "description": "花开不笑是浪费，一笑解千愁",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
