@@ -424,7 +424,16 @@
       "icon": "Bell",
       "description": "花开不笑是浪费，一笑解千愁",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1763962955558",
+          "title": "云段子-搞笑热评段子",
+          "href": "https://www.yduanzi.com/",
+          "description": "在云段子，随时发现搞笑热评段子",
+          "icon": "/assets/favicon_1763962959298.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
