@@ -442,7 +442,16 @@
       "icon": "Search",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764050306580_1w6gqv5et",
+          "title": "WinApps 官网- 免费开源的 Windows 电脑软件分享下载站",
+          "href": "https://www.winapps.cc/",
+          "description": "WinApps.cc 精选热门与小众高质量 Windows 软件，涵盖重装系统、效率办公与日常使用，更新及时，提供高速、安全、无捆绑的最新版下载服务。",
+          "icon": "/assets/favicon_1764050302011.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
