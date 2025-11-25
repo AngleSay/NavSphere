@@ -435,6 +435,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1764050262725",
+      "title": "软件下载",
+      "icon": "Search",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
