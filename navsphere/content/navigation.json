@@ -320,6 +320,14 @@
           "description": "地瓜搜是一个以提供网盘搜索相关服务为基础的娱乐网站，致力于提供网盘资源搜索、网盘资源分享",
           "icon": "/assets/favicon_1763720699437.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764300781320_tdwlcda9t",
+          "title": "十大网盘资源搜索引擎 - 凌风云",
+          "href": "https://www.lingfengyun.com/",
+          "description": "凌风云搜索是互联网专业的阿里云盘，百度网盘等十大网盘搜索引擎，是网盘资源搜索中心.",
+          "icon": "/assets/favicon_1764300757861.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
