@@ -471,6 +471,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1764300641266",
+      "title": "书籍",
+      "icon": "Book",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
