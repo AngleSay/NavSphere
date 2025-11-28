@@ -478,7 +478,16 @@
       "icon": "Book",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764300690473_040xa6wzf",
+          "title": "Jiumo Search 鸠摩搜索 - 文档搜索引擎",
+          "href": "https://www.jiumodiary.com/",
+          "description": "鸠摩搜索引擎",
+          "icon": "/assets/favicon_1764300682774.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
