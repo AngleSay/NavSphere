@@ -167,6 +167,14 @@
               "description": "MX动漫永久域名：mxdm.tv 地址发布页：mxdm.fans\nMX动漫提供最新最快的在线观看动漫番剧资源，在线观看完全免费、无须注册、高速播放、更新及时的专业在线动漫网站，是樱花动漫外最好打的备用动漫网站。",
               "icon": "/assets/favicon_1764637905367.png",
               "enabled": true
+            },
+            {
+              "id": "site_1764638586062_28rn0z6f5",
+              "title": "番组百科|动漫科 - 动漫收藏&整理",
+              "href": "https://www.anibk.com/",
+              "description": "动漫科是一个专门为动漫爱好者设计的以收藏和整理形式展示的网站，站内有每部动画的详细信息以及截图/视频预览等功能。————欢迎使用番组百科之动漫科！",
+              "icon": "/assets/favicon_1764638576571.png",
+              "enabled": true
             }
           ]
         }
