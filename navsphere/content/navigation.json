@@ -6,16 +6,7 @@
       "icon": "Video",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1763719261308_zmgiqsec9",
-          "title": "猴影工坊",
-          "href": "https://monkey-flix.com/",
-          "description": "免费在线电影大全 - 最新电影、电视剧、动漫、综艺、纪录片",
-          "icon": "/assets/favicon_1763719241973.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "79afcbc2-b13e-42d0-9376-6bca78301d4e",
@@ -183,6 +174,14 @@
               "href": "https://nkvod.me/",
               "description": "耐看点播发布页：https://nkvlog.us/",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=nkvod.me",
+              "enabled": true
+            },
+            {
+              "id": "site_1763719261308_zmgiqsec9",
+              "title": "猴影工坊",
+              "href": "https://monkey-flix.com/",
+              "description": "免费在线电影大全 - 最新电影、电视剧、动漫、综艺、纪录片",
+              "icon": "/assets/favicon_1763719241973.png",
               "enabled": true
             }
           ]
