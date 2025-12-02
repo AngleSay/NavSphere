@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1763131410877",
-          "title": "百思派电影网",
-          "href": "https://www.bestpipe.cn/",
-          "description": "全网VIP点映免费观看",
-          "icon": "/assets/favicon_1763131416372.png",
-          "enabled": true
-        },
-        {
           "id": "1763131699470",
           "title": "FreeOK - 追剧也很卷",
           "href": "https://www.freeokk.me/",
@@ -183,6 +175,14 @@
               "href": "https://www.netflixgc.com/",
               "description": "一个致力于免费提供奈飞影剧动漫的流媒体播放平台",
               "icon": "/assets/favicon_1763130510114.png",
+              "enabled": true
+            },
+            {
+              "id": "1763131410877",
+              "title": "百思派电影网",
+              "href": "https://www.bestpipe.cn/",
+              "description": "全网VIP点映免费观看",
+              "icon": "/assets/favicon_1763131416372.png",
               "enabled": true
             }
           ]
