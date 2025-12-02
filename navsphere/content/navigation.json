@@ -177,6 +177,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "c0c8f61b-c5d3-46fb-9276-586fb5be059e",
+          "title": "VIP影视",
+          "icon": "Video",
+          "description": "综合影视大全",
+          "enabled": true,
+          "items": []
         }
       ]
     },
