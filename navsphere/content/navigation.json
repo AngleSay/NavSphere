@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1763129861448",
-          "title": "爱看机器人-ikanbot.com",
-          "href": "https://v.ikanbot.com/",
-          "description": "爱看机器人-ikanbot.com,是一个利用网络爬虫技术检索全网免费在线观看影视资源的搜素引擎。",
-          "icon": "/assets/favicon_1763129866898.svg",
-          "enabled": true
-        },
-        {
           "id": "1763130078574",
           "title": "泥视频 - 海外华人在线影院",
           "href": "https://www.nivod.cc/",
@@ -183,6 +175,14 @@
               "href": "https://www.zhenlang.cc/",
               "description": "真狼为您提供蓝光和超高清的专享影音体验，汇聚国内外最新最全的电影、电视剧、动漫和综艺等热门视频资源。我们实时更新、多线路支持，确保流畅在线播放。此外，您还可以同步在线观看美剧、英剧、韩剧和日剧等众多海外剧集。",
               "icon": "/assets/favicon_1763128973204.png",
+              "enabled": true
+            },
+            {
+              "id": "1763129861448",
+              "title": "爱看机器人-ikanbot.com",
+              "href": "https://v.ikanbot.com/",
+              "description": "爱看机器人-ikanbot.com,是一个利用网络爬虫技术检索全网免费在线观看影视资源的搜素引擎。",
+              "icon": "/assets/favicon_1763129866898.svg",
               "enabled": true
             }
           ]
