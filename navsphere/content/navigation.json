@@ -160,7 +160,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "79afcbc2-b13e-42d0-9376-6bca78301d4e",
+          "title": "动漫",
+          "icon": "Palette",
+          "description": "动漫",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1763429130266",
