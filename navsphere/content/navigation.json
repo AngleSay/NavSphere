@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1763128318886",
-          "title": "统一影视TV-海量高清高清视频免费在线观看",
-          "href": "https://www.tyys2.com/",
-          "description": "统一影视提供最新电影、电视剧、动漫、综艺在线观看，海量正版高清视频免费观看，支持手机电脑同步观看，更新快，画质好，打造极致追剧体验。",
-          "icon": "/assets/favicon_1763128325515.png",
-          "enabled": true
-        },
-        {
           "id": "1763128606332",
           "title": "独播库",
           "href": "https://www.dbkk.cc/",
@@ -183,6 +175,14 @@
               "href": "http://mtyy1.com/",
               "description": "麦田影院(mtyy1.com)海量高清电影免费在线观看,无广告无VIP,每天更新最新电影,最新电视剧,SVIP永久免费看!",
               "icon": "/assets/favicon_1763114815577.png",
+              "enabled": true
+            },
+            {
+              "id": "1763128318886",
+              "title": "统一影视TV-海量高清高清视频免费在线观看",
+              "href": "https://www.tyys2.com/",
+              "description": "统一影视提供最新电影、电视剧、动漫、综艺在线观看，海量正版高清视频免费观看，支持手机电脑同步观看，更新快，画质好，打造极致追剧体验。",
+              "icon": "/assets/favicon_1763128325515.png",
               "enabled": true
             }
           ]
