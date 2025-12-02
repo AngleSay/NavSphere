@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1763128606332",
-          "title": "独播库",
-          "href": "https://www.dbkk.cc/",
-          "description": "独播库,线上看,免费在线观看,电影,电视剧,动漫,视频网站,高清视频,Series,Movie,TV Shows,Online Free Watch",
-          "icon": "/assets/favicon_1763128612011.ico",
-          "enabled": true
-        },
-        {
           "id": "1763128885163",
           "title": "注视影视 - 免费在线观影",
           "href": "https://gaze.run/",
@@ -183,6 +175,14 @@
               "href": "https://www.tyys2.com/",
               "description": "统一影视提供最新电影、电视剧、动漫、综艺在线观看，海量正版高清视频免费观看，支持手机电脑同步观看，更新快，画质好，打造极致追剧体验。",
               "icon": "/assets/favicon_1763128325515.png",
+              "enabled": true
+            },
+            {
+              "id": "1763128606332",
+              "title": "独播库",
+              "href": "https://www.dbkk.cc/",
+              "description": "独播库,线上看,免费在线观看,电影,电视剧,动漫,视频网站,高清视频,Series,Movie,TV Shows,Online Free Watch",
+              "icon": "/assets/favicon_1763128612011.ico",
               "enabled": true
             }
           ]
