@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1763128885163",
-          "title": "注视影视 - 免费在线观影",
-          "href": "https://gaze.run/",
-          "description": "流畅简洁的观影体验，高清热门剧、番剧、冷门电影免费在线观看，尽享优质影视内容。",
-          "icon": "/assets/favicon_1763128891697.png",
-          "enabled": true
-        },
-        {
           "id": "1763129113391",
           "title": "老地方影院-免费海外华人在线影院 | 全网热播VIP视频免费在线观看 | 高清无广告",
           "href": "https://www.laodifang.cc/",
@@ -183,6 +175,14 @@
               "href": "https://www.dbkk.cc/",
               "description": "独播库,线上看,免费在线观看,电影,电视剧,动漫,视频网站,高清视频,Series,Movie,TV Shows,Online Free Watch",
               "icon": "/assets/favicon_1763128612011.ico",
+              "enabled": true
+            },
+            {
+              "id": "1763128885163",
+              "title": "注视影视 - 免费在线观影",
+              "href": "https://gaze.run/",
+              "description": "流畅简洁的观影体验，高清热门剧、番剧、冷门电影免费在线观看，尽享优质影视内容。",
+              "icon": "/assets/favicon_1763128891697.png",
               "enabled": true
             }
           ]
