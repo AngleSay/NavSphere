@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1763553693607",
-          "title": "52TV - HOME",
-          "href": "https://52tv.sbs/",
-          "description": "Free online 4k movies and tv shows with high quality and fast streaming speed with no ads and no limits !",
-          "icon": "/assets/favicon_1763553711046.ico",
-          "enabled": true
-        },
-        {
           "id": "1763568929229",
           "title": "永乐视频-全平台最新4K高清电影视频免费在线观看",
           "href": "https://www.ylsp.lv/",
@@ -183,6 +175,14 @@
               "href": "https://www.taozi008.com/",
               "description": "桃子影视提供最新电影和电视剧的在线观看服务，您可以随时随地观看热门影片，与朋友分享观影的乐趣。",
               "icon": "/assets/favicon_1763131796515.png",
+              "enabled": true
+            },
+            {
+              "id": "1763553693607",
+              "title": "52TV - HOME",
+              "href": "https://52tv.sbs/",
+              "description": "Free online 4k movies and tv shows with high quality and fast streaming speed with no ads and no limits !",
+              "icon": "/assets/favicon_1763553711046.ico",
               "enabled": true
             }
           ]
