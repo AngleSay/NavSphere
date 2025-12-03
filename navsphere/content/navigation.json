@@ -185,6 +185,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "060a52ad-f76e-418f-b202-4e2bf771014b",
+          "title": "VIP视屏解析",
+          "icon": "Link",
+          "description": "VIP视屏地址解析",
+          "enabled": true,
+          "items": []
         }
       ]
     },
