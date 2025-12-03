@@ -192,7 +192,16 @@
           "icon": "Link",
           "description": "VIP视屏地址解析",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1764740876594_60bqwysqi",
+              "title": "努力鸭视频解析",
+              "href": "https://www.nuliya.top/vip/",
+              "description": "努力鸭视频解析支持爱奇艺、腾讯视频、优酷、芒果TV、乐视视频、搜狐视频、bilibili哔哩哔哩（B站）、AcFun弹幕视频网（A站）等视频解析\n访问 www.nuliya.top",
+              "icon": "/assets/favicon_1764740826885.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
