@@ -519,6 +519,14 @@
           "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
           "icon": "/assets/favicon_1764119642480.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764750804907_3md0z1fku",
+          "title": "BentoPDF - The Privacy First PDF Toolkit",
+          "href": "https://bentopdf.com/",
+          "description": "",
+          "icon": "/assets/favicon_1764750797030.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
