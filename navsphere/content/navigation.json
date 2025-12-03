@@ -537,6 +537,14 @@
           "description": "鸠摩搜索引擎",
           "icon": "/assets/favicon_1764300682774.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764741786463_5y78r0min",
+          "title": "我有一书-总有一本你喜欢的书，欢迎来收藏和阅读~",
+          "href": "https://www.woyouyishu.com/index.html",
+          "description": "我有一书网免费共享网络书籍小说，还有许多影视原著小说免费阅读，希望大家喜欢我们网站！",
+          "icon": "/assets/favicon_1764741777910.png",
+          "enabled": true
         }
       ],
       "subCategories": []
