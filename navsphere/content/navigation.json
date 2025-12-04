@@ -455,6 +455,14 @@
           "description": "秘塔AI搜索",
           "icon": "/assets/favicon_1763569175131.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764828813875_ef61zho2d",
+          "title": "开发者搜索",
+          "href": "https://kaifa.baidu.com/",
+          "description": "开发者搜索",
+          "icon": "/assets/favicon_1764828776231.png",
+          "enabled": true
         }
       ],
       "subCategories": []
