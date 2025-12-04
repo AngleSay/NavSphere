@@ -199,6 +199,14 @@
               "description": "免费在线电影大全 - 最新电影、电视剧、动漫、综艺、纪录片",
               "icon": "/assets/favicon_1763719241973.png",
               "enabled": true
+            },
+            {
+              "id": "site_1764847431825_tg5am18b9",
+              "title": "两个BT",
+              "href": "https://www.bttwo.me/",
+              "description": "本站最新域名 www.bttwo.ne\n两个BT免费为网友提交BT种子下载，免费电影资源下载，以及各种高清电影在线观看,最全的最新电视剧，最近上映热门电影下载。韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、动漫番剧。",
+              "icon": "/assets/favicon_1764847333321.ico",
+              "enabled": true
             }
           ]
         },
