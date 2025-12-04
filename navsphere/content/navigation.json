@@ -387,6 +387,14 @@
           "description": "凌风云搜索是互联网专业的阿里云盘，百度网盘等十大网盘搜索引擎，是网盘资源搜索中心.",
           "icon": "/assets/favicon_1764300757861.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764847035564_7321f75i9",
+          "title": "兄弟盘 - 百度网盘资源搜索",
+          "href": "https://www.xiongdipan.com/",
+          "description": "兄弟盘,支持百度网盘搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度网盘资源，每天更新海量资源。",
+          "icon": "/assets/favicon_1764847028603.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
