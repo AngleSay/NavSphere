@@ -30,6 +30,14 @@
               "description": "动漫科是一个专门为动漫爱好者设计的以收藏和整理形式展示的网站，站内有每部动画的详细信息以及截图/视频预览等功能。————欢迎使用番组百科之动漫科！",
               "icon": "/assets/favicon_1764638576571.png",
               "enabled": true
+            },
+            {
+              "id": "site_1764819941703_0wcz6103q",
+              "title": "omofun动漫",
+              "href": "https://cn.211dm.com/",
+              "description": "记住以下网址回家。\nhttps://www.jiandandm.com\nhttps://www.maghh.com\nhttps://www.997dm.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cn.211dm.com",
+              "enabled": true
             }
           ]
         },
