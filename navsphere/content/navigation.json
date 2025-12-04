@@ -527,6 +527,14 @@
           "description": "",
           "icon": "/assets/favicon_1764750797030.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1764813837894_te7ce3jb1",
+          "title": "猎犬-你的文本搜索专家",
+          "href": "https://www.gewu.dev/",
+          "description": "快速、友好的桌面文本搜索软件",
+          "icon": "/assets/favicon_1764813830595.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
