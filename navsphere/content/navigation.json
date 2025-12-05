@@ -293,6 +293,14 @@
           "enabled": true
         },
         {
+          "id": "1763554136943",
+          "title": "阿里云盘资源搜索引擎 - 阿里搜",
+          "href": "https://aliso.cc/",
+          "description": "阿里搜是专业的阿里云盘搜索引擎，全网千万级的云盘资源每日更新，包括考研,电影,动漫,视频,图书,软件,文档,音乐,等优质网盘资源。",
+          "icon": "/assets/favicon_1763554143901.png",
+          "enabled": true
+        },
+        {
           "id": "site_1763429358368_tb79o4dkx",
           "title": "小鸟搜索 | BirdieSearch | 云盘搜索",
           "href": "https://www.birdiesearch.com/",
@@ -306,14 +314,6 @@
           "href": "https://www.pansoso.com/",
           "description": "网盘搜索就上盘搜搜",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pansoso.com",
-          "enabled": true
-        },
-        {
-          "id": "1763554136943",
-          "title": "阿里云盘资源搜索引擎 - 阿里搜",
-          "href": "https://aliso.cc/",
-          "description": "阿里搜是专业的阿里云盘搜索引擎，全网千万级的云盘资源每日更新，包括考研,电影,动漫,视频,图书,软件,文档,音乐,等优质网盘资源。",
-          "icon": "/assets/favicon_1763554143901.png",
           "enabled": true
         },
         {
