@@ -617,14 +617,6 @@
           "enabled": true
         },
         {
-          "id": "site_1764904525136_ufzhnmfve",
-          "title": "iTerm2 - macOS Terminal Replacement",
-          "href": "https://iterm2.com/",
-          "description": "iTerm2 is a replacement for Terminal and the successor to iTerm",
-          "icon": "/assets/favicon_1764904385590.png",
-          "enabled": true
-        },
-        {
           "id": "site_1764904714900_fwgnc2dzi",
           "title": "Wave Terminal — Upgrade Your Command Line",
           "href": "https://www.waveterm.dev/",
@@ -688,6 +680,14 @@
               "href": "https://tools.pdf24.org/zh/",
               "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
               "icon": "/assets/favicon_1764119642480.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1764904525136_ufzhnmfve",
+              "title": "iTerm2 - macOS Terminal Replacement",
+              "href": "https://iterm2.com/",
+              "description": "iTerm2 is a replacement for Terminal and the successor to iTerm",
+              "icon": "/assets/favicon_1764904385590.png",
               "enabled": true
             }
           ]
