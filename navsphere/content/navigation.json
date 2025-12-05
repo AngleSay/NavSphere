@@ -664,6 +664,14 @@
               "description": "🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. - CodePhiliaX/Chat2DB",
               "icon": "/assets/favicon_1764938600303.png",
               "enabled": true
+            },
+            {
+              "id": "site_1764938788078_1sczthsdt",
+              "title": "GitHub - RemotePinee/AudioVisual: 解锁所有国内媒体流的钥匙",
+              "href": "https://github.com/RemotePinee/AudioVisual",
+              "description": "解锁所有国内媒体流的钥匙. Contribute to RemotePinee/AudioVisual development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1764938776717.png",
+              "enabled": true
             }
           ]
         }
