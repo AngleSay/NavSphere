@@ -641,7 +641,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "1c0774af-99fd-4efe-8a90-d40d218b1827",
+          "title": "GitHub开源工具",
+          "icon": "Cloud",
+          "description": "开源工具  安全工具  免费工具  github",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1764300641266",
