@@ -607,14 +607,6 @@
           "description": "Powerful text editing tool with syntax highlighting support for programming languages and scripts.",
           "icon": "/assets/favicon_1764813892012.ico",
           "enabled": true
-        },
-        {
-          "id": "site_1764904714900_fwgnc2dzi",
-          "title": "Wave Terminal — Upgrade Your Command Line",
-          "href": "https://www.waveterm.dev/",
-          "description": "Stop Context Switching by Bringing Context Into Your Terminal. Wave is an open-source terminal with superpowers, integrating file previews, file editing, AI, web browsing, and workspace organization. Available for MacOS, Linux, and Windows.",
-          "icon": "/assets/favicon_1764904695351.png",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -688,6 +680,14 @@
               "href": "https://www.diskanalyzer.com/",
               "description": "Official WizTree web site. WizTree is the fastest disk space analyzer available for Windows. It reads the Master File Table (MFT) directly from the disk, bypassing Windows and gaining a huge performance boost.",
               "icon": "/assets/favicon_1764814200247.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1764904714900_fwgnc2dzi",
+              "title": "Wave Terminal — Upgrade Your Command Line",
+              "href": "https://www.waveterm.dev/",
+              "description": "Stop Context Switching by Bringing Context Into Your Terminal. Wave is an open-source terminal with superpowers, integrating file previews, file editing, AI, web browsing, and workspace organization. Available for MacOS, Linux, and Windows.",
+              "icon": "/assets/favicon_1764904695351.png",
               "enabled": true
             }
           ]
