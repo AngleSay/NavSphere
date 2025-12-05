@@ -285,6 +285,14 @@
           "enabled": true
         },
         {
+          "id": "1763553945858",
+          "title": "盘友圈",
+          "href": "https://panyq.com/",
+          "description": "阿里云盘,百度网盘,夸克网盘资源搜索工具",
+          "icon": "/assets/favicon_1763553951922.ico",
+          "enabled": true
+        },
+        {
           "id": "site_1763429358368_tb79o4dkx",
           "title": "小鸟搜索 | BirdieSearch | 云盘搜索",
           "href": "https://www.birdiesearch.com/",
@@ -298,14 +306,6 @@
           "href": "https://www.pansoso.com/",
           "description": "网盘搜索就上盘搜搜",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pansoso.com",
-          "enabled": true
-        },
-        {
-          "id": "1763553945858",
-          "title": "盘友圈",
-          "href": "https://panyq.com/",
-          "description": "阿里云盘,百度网盘,夸克网盘资源搜索工具",
-          "icon": "/assets/favicon_1763553951922.ico",
           "enabled": true
         },
         {
