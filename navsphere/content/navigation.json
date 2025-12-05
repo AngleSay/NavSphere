@@ -427,6 +427,14 @@
           "description": "兄弟盘,支持百度网盘搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度网盘资源，每天更新海量资源。",
           "icon": "/assets/favicon_1764847028603.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764934536531_djipxd947",
+          "title": "秒搜",
+          "href": "https://miaosou.fun/",
+          "description": "强大的网盘搜索引擎",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=miaosou.fun",
+          "enabled": true
         }
       ],
       "subCategories": []
