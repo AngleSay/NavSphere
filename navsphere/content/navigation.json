@@ -309,6 +309,14 @@
           "enabled": true
         },
         {
+          "id": "1763554299584",
+          "title": "PanSou 盘搜",
+          "href": "https://s.panhunt.com/",
+          "description": "PanHunt 官方基于开源项目提供的聚合搜索服务",
+          "icon": "/assets/favicon_1763554304693.ico",
+          "enabled": true
+        },
+        {
           "id": "site_1763429358368_tb79o4dkx",
           "title": "小鸟搜索 | BirdieSearch | 云盘搜索",
           "href": "https://www.birdiesearch.com/",
@@ -322,14 +330,6 @@
           "href": "https://www.pansoso.com/",
           "description": "网盘搜索就上盘搜搜",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pansoso.com",
-          "enabled": true
-        },
-        {
-          "id": "1763554299584",
-          "title": "PanSou 盘搜",
-          "href": "https://s.panhunt.com/",
-          "description": "PanHunt 官方基于开源项目提供的聚合搜索服务",
-          "icon": "/assets/favicon_1763554304693.ico",
           "enabled": true
         },
         {
