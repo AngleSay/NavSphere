@@ -682,6 +682,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "d0b4dc0a-b974-433d-b4d5-f93a73fa1f14",
+          "title": "精选工具",
+          "icon": "Heart",
+          "description": "优质工具",
+          "enabled": true,
+          "items": []
         }
       ]
     },
