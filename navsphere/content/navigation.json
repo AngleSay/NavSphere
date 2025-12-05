@@ -215,6 +215,14 @@
               "description": "Auete影视为您提供蓝光超清热门电影,热门美剧热门韩剧最近热播电影电视剧推荐,精品动漫,好看的综艺节目在线观看百度云免费下载!\n最新域名访问：https://auete.top：最新网址发布页：https://auete.pro！！! 手机观看推荐使用微软Edge浏览器：https://www.microsoft.com/zh-cn/edge/download",
               "icon": "/assets/favicon_1764848682597.png",
               "enabled": true
+            },
+            {
+              "id": "site_1764933404131_9nclg2sxe",
+              "title": "唐人街影视",
+              "href": "https://www.chinatownfilm.com/",
+              "description": "访问 www.chinatownfilm.com",
+              "icon": "/assets/favicon_1764933383400.png",
+              "enabled": true
             }
           ]
         },
