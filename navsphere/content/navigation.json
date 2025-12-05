@@ -585,14 +585,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1764119647981_l3ras664i",
-          "title": "PDF24 Tools: 免费且易于使用的在线PDF工具",
-          "href": "https://tools.pdf24.org/zh/",
-          "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
-          "icon": "/assets/favicon_1764119642480.png",
-          "enabled": true
-        },
-        {
           "id": "site_1764750804907_3md0z1fku",
           "title": "BentoPDF - The Privacy First PDF Toolkit",
           "href": "https://bentopdf.com/",
@@ -689,7 +681,16 @@
           "icon": "Heart",
           "description": "优质工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1764119647981_l3ras664i",
+              "title": "PDF24 Tools: 免费且易于使用的在线PDF工具",
+              "href": "https://tools.pdf24.org/zh/",
+              "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
+              "icon": "/assets/favicon_1764119642480.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
