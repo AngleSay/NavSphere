@@ -373,6 +373,14 @@
           "enabled": true
         },
         {
+          "id": "site_1763720613576_lxsvmm7my",
+          "title": "学霸盘 - 百度网盘学习资料搜索下载神器",
+          "href": "https://www.xuebapan.com/",
+          "description": "学霸盘是百度网盘资源搜索引擎，提供抖音,短视频,课程,考研,PPT模板,电子书,会计,计算机等热门资源，实时检查无效资源，帮您更快捷的获取网盘资源下载信息。",
+          "icon": "/assets/favicon_1763720608069.png",
+          "enabled": true
+        },
+        {
           "id": "site_1763429358368_tb79o4dkx",
           "title": "小鸟搜索 | BirdieSearch | 云盘搜索",
           "href": "https://www.birdiesearch.com/",
@@ -394,14 +402,6 @@
           "href": "https://www.nmme.one",
           "description": "橘子盘搜是一款聚合搜索工具，支持5个主流网盘平台，包括百度网盘、夸克网盘、迅雷云盘等。资源丰富度高，还有不同的搜索源，支持的网盘也比较多",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.nmme.icul",
-          "enabled": true
-        },
-        {
-          "id": "site_1763720613576_lxsvmm7my",
-          "title": "学霸盘 - 百度网盘学习资料搜索下载神器",
-          "href": "https://www.xuebapan.com/",
-          "description": "学霸盘是百度网盘资源搜索引擎，提供抖音,短视频,课程,考研,PPT模板,电子书,会计,计算机等热门资源，实时检查无效资源，帮您更快捷的获取网盘资源下载信息。",
-          "icon": "/assets/favicon_1763720608069.png",
           "enabled": true
         },
         {
