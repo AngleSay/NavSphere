@@ -341,6 +341,14 @@
           "enabled": true
         },
         {
+          "id": "site_1763718956182_02dsc5vd3",
+          "title": "大力盘",
+          "href": "https://www.dalipan.com/",
+          "description": "备用站点：https://www.feizhupan.com ，https://www.dalipan.xyz ，请保存到浏览器书签中",
+          "icon": "/assets/favicon_1763718942204.png",
+          "enabled": true
+        },
+        {
           "id": "site_1763429358368_tb79o4dkx",
           "title": "小鸟搜索 | BirdieSearch | 云盘搜索",
           "href": "https://www.birdiesearch.com/",
@@ -362,14 +370,6 @@
           "href": "https://www.nmme.one",
           "description": "橘子盘搜是一款聚合搜索工具，支持5个主流网盘平台，包括百度网盘、夸克网盘、迅雷云盘等。资源丰富度高，还有不同的搜索源，支持的网盘也比较多",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.nmme.icul",
-          "enabled": true
-        },
-        {
-          "id": "site_1763718956182_02dsc5vd3",
-          "title": "大力盘",
-          "href": "https://www.dalipan.com/",
-          "description": "备用站点：https://www.feizhupan.com ，https://www.dalipan.xyz ，请保存到浏览器书签中",
-          "icon": "/assets/favicon_1763718942204.png",
           "enabled": true
         },
         {
