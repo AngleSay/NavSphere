@@ -648,7 +648,16 @@
           "icon": "Cloud",
           "description": "开源工具  安全工具  免费工具  github",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1764938544365_ueyk608yw",
+              "title": "GitHub - IliasHad/edit-mind: Desktop app and Web App (Docker) that indexes videos with AI (object detection, face recognition, emotion analysis), enables semantic search through natural language queries, and generates rough cuts",
+              "href": "https://github.com/IliasHad/edit-mind",
+              "description": "Desktop app and Web App (Docker) that indexes videos with AI (object detection, face recognition, emotion analysis), enables semantic search through natural language queries, and generates rough cuts  - GitHub - IliasHad/edit-mind: Desktop app and Web App (Docker) that indexes videos with AI (object detection, face recognition, emotion analysis), enables semantic search through natural language queries, and generates rough cuts",
+              "icon": "/assets/favicon_1764938532793.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
