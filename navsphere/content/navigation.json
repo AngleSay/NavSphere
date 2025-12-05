@@ -583,16 +583,7 @@
       "icon": "Coffee",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1764750804907_3md0z1fku",
-          "title": "BentoPDF - The Privacy First PDF Toolkit",
-          "href": "https://bentopdf.com/",
-          "description": "",
-          "icon": "/assets/favicon_1764750797030.svg",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "1c0774af-99fd-4efe-8a90-d40d218b1827",
@@ -688,6 +679,14 @@
               "href": "https://texteditor.pro/",
               "description": "Powerful text editing tool with syntax highlighting support for programming languages and scripts.",
               "icon": "/assets/favicon_1764813892012.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1764750804907_3md0z1fku",
+              "title": "BentoPDF - The Privacy First PDF Toolkit",
+              "href": "https://bentopdf.com/",
+              "description": "",
+              "icon": "/assets/favicon_1764750797030.svg",
               "enabled": true
             }
           ]
