@@ -609,14 +609,6 @@
           "enabled": true
         },
         {
-          "id": "site_1764814207064_cxfjoubc8",
-          "title": "WizTree - The Fastest Disk Space Analyzer",
-          "href": "https://www.diskanalyzer.com/",
-          "description": "Official WizTree web site. WizTree is the fastest disk space analyzer available for Windows. It reads the Master File Table (MFT) directly from the disk, bypassing Windows and gaining a huge performance boost.",
-          "icon": "/assets/favicon_1764814200247.png",
-          "enabled": true
-        },
-        {
           "id": "site_1764904714900_fwgnc2dzi",
           "title": "Wave Terminal — Upgrade Your Command Line",
           "href": "https://www.waveterm.dev/",
@@ -688,6 +680,14 @@
               "href": "https://iterm2.com/",
               "description": "iTerm2 is a replacement for Terminal and the successor to iTerm",
               "icon": "/assets/favicon_1764904385590.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1764814207064_cxfjoubc8",
+              "title": "WizTree - The Fastest Disk Space Analyzer",
+              "href": "https://www.diskanalyzer.com/",
+              "description": "Official WizTree web site. WizTree is the fastest disk space analyzer available for Windows. It reads the Master File Table (MFT) directly from the disk, bypassing Windows and gaining a huge performance boost.",
+              "icon": "/assets/favicon_1764814200247.png",
               "enabled": true
             }
           ]
