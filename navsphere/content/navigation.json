@@ -591,14 +591,6 @@
           "description": "",
           "icon": "/assets/favicon_1764750797030.svg",
           "enabled": true
-        },
-        {
-          "id": "site_1764813901448_k37y9j00h",
-          "title": "Text Editor Pro",
-          "href": "https://texteditor.pro/",
-          "description": "Powerful text editing tool with syntax highlighting support for programming languages and scripts.",
-          "icon": "/assets/favicon_1764813892012.ico",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -688,6 +680,14 @@
               "href": "https://www.gewu.dev/",
               "description": "快速、友好的桌面文本搜索软件",
               "icon": "/assets/favicon_1764813830595.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1764813901448_k37y9j00h",
+              "title": "Text Editor Pro",
+              "href": "https://texteditor.pro/",
+              "description": "Powerful text editing tool with syntax highlighting support for programming languages and scripts.",
+              "icon": "/assets/favicon_1764813892012.ico",
               "enabled": true
             }
           ]
