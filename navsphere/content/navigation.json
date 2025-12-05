@@ -381,6 +381,14 @@
           "enabled": true
         },
         {
+          "id": "site_1763720704729_sxmaebyp6",
+          "title": "地瓜搜",
+          "href": "http://dg.digua.fit/",
+          "description": "地瓜搜是一个以提供网盘搜索相关服务为基础的娱乐网站，致力于提供网盘资源搜索、网盘资源分享",
+          "icon": "/assets/favicon_1763720699437.png",
+          "enabled": true
+        },
+        {
           "id": "site_1763429358368_tb79o4dkx",
           "title": "小鸟搜索 | BirdieSearch | 云盘搜索",
           "href": "https://www.birdiesearch.com/",
@@ -402,14 +410,6 @@
           "href": "https://www.nmme.one",
           "description": "橘子盘搜是一款聚合搜索工具，支持5个主流网盘平台，包括百度网盘、夸克网盘、迅雷云盘等。资源丰富度高，还有不同的搜索源，支持的网盘也比较多",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.nmme.icul",
-          "enabled": true
-        },
-        {
-          "id": "site_1763720704729_sxmaebyp6",
-          "title": "地瓜搜",
-          "href": "http://dg.digua.fit/",
-          "description": "地瓜搜是一个以提供网盘搜索相关服务为基础的娱乐网站，致力于提供网盘资源搜索、网盘资源分享",
-          "icon": "/assets/favicon_1763720699437.png",
           "enabled": true
         },
         {
