@@ -223,6 +223,14 @@
               "description": "访问 www.chinatownfilm.com",
               "icon": "/assets/favicon_1764933383400.png",
               "enabled": true
+            },
+            {
+              "id": "site_1764934377013_mvgtzxw6v",
+              "title": "Novipnoad",
+              "href": "https://www.novipnoad.net/",
+              "description": "不负追剧好时光",
+              "icon": "/assets/favicon_1764934324481.png",
+              "enabled": true
             }
           ]
         },
