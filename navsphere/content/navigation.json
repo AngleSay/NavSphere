@@ -631,6 +631,14 @@
               "description": "微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件 - qiye45/wechatDownload",
               "icon": "/assets/favicon_1764993110576.png",
               "enabled": true
+            },
+            {
+              "id": "1765007914380",
+              "title": "GitHub - 666OS/ClashMac: 基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.",
+              "href": "https://github.com/666OS/ClashMac",
+              "description": "基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client. - 666OS/ClashMac",
+              "icon": "/assets/favicon_1765007923794.png",
+              "enabled": true
             }
           ]
         },
