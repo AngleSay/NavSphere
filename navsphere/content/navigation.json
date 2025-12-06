@@ -639,6 +639,14 @@
               "description": "基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client. - 666OS/ClashMac",
               "icon": "/assets/favicon_1765007923794.png",
               "enabled": true
+            },
+            {
+              "id": "1765008072306",
+              "title": "GitHub - icip-cas/PPTAgent: PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides [EMNLP 2025]",
+              "href": "https://github.com/icip-cas/PPTAgent",
+              "description": "PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides [EMNLP 2025] - icip-cas/PPTAgent",
+              "icon": "/assets/favicon_1765008080322.png",
+              "enabled": true
             }
           ]
         },
