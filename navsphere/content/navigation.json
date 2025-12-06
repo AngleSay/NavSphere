@@ -57,19 +57,19 @@
           "enabled": true,
           "items": [
             {
-              "id": "1763128606332",
-              "title": "独播库",
-              "href": "https://www.dbkk.cc/",
-              "description": "独播库,线上看,免费在线观看,电影,电视剧,动漫,视频网站,高清视频,Series,Movie,TV Shows,Online Free Watch",
-              "icon": "/assets/favicon_1763128612011.ico",
-              "enabled": true
-            },
-            {
               "id": "site_1763114826316_kvilz582r",
               "title": "麦田影院-好看的电影电视剧,海量高清影视免费在线观看",
               "href": "http://mtyy1.com/",
               "description": "麦田影院(mtyy1.com)海量高清电影免费在线观看,无广告无VIP,每天更新最新电影,最新电视剧,SVIP永久免费看!",
               "icon": "/assets/favicon_1763114815577.png",
+              "enabled": true
+            },
+            {
+              "id": "1763128606332",
+              "title": "独播库",
+              "href": "https://www.dbkk.cc/",
+              "description": "独播库,线上看,免费在线观看,电影,电视剧,动漫,视频网站,高清视频,Series,Movie,TV Shows,Online Free Watch",
+              "icon": "/assets/favicon_1763128612011.ico",
               "enabled": true
             },
             {
