@@ -231,6 +231,14 @@
               "description": "耐看点播发布页：https://nkvlog.us/",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=nkvod.me",
               "enabled": true
+            },
+            {
+              "id": "1765008249208",
+              "title": "柯南影视8",
+              "href": "https://www.knvod.com/",
+              "description": "在线影视站，涵盖电影、电视剧、动漫、综艺和短剧等，可按类型、地区、年份、语言进行筛选，可按最新、热度、评分进行排序，内置超多播放线路，如遇问题可以切换，免费无广告，无需注册。\n访问 www.knvod.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.knvod.com",
+              "enabled": true
             }
           ]
         },
