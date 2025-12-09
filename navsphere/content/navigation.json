@@ -720,6 +720,14 @@
               "description": "",
               "icon": "/assets/favicon_1764750797030.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1765245687582_rrprdmw35",
+              "title": "Sqlark",
+              "href": "https://www.sqlark.com/",
+              "description": "信创数据库开发，用百灵",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sqlark.com",
+              "enabled": true
             }
           ]
         }
