@@ -730,6 +730,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "f343b171-c94f-45ba-8b2c-909f04c0173c",
+          "title": "破解软件",
+          "icon": "Box",
+          "description": "提供各种破解软件的下载地址等等",
+          "enabled": true,
+          "items": []
         }
       ]
     },
