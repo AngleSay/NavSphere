@@ -737,7 +737,16 @@
           "icon": "Box",
           "description": "提供各种破解软件的下载地址等等",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1765330601822_w1gble0y8",
+              "title": "小虎吧软件库-软件库官网-免费软件资源分享！",
+              "href": "https://www.xiaohuba.com/",
+              "description": "小虎吧是一款免费分享各种软件资源的app软件，在这里你可以找到解锁付费版本的实用软件,小说软件,音乐软件,漫画软件,游戏软件等，你需要的资源这里都有！",
+              "icon": "/assets/favicon_1765330574268.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
