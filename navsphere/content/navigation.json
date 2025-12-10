@@ -655,6 +655,14 @@
               "description": "PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides [EMNLP 2025] - icip-cas/PPTAgent",
               "icon": "/assets/favicon_1765008080322.png",
               "enabled": true
+            },
+            {
+              "id": "site_1765331932559_2a7tntig0",
+              "title": "Releases · ventoy/Ventoy · GitHub",
+              "href": "https://github.com/ventoy/Ventoy/releases",
+              "description": "A new bootable USB solution. Contribute to ventoy/Ventoy development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1765331926997.png",
+              "enabled": true
             }
           ]
         },
