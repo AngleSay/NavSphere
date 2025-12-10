@@ -728,6 +728,14 @@
               "description": "信创数据库开发，用百灵",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sqlark.com",
               "enabled": true
+            },
+            {
+              "id": "site_1765331901221_lqu8pkuhm",
+              "title": "Ventoy",
+              "href": "https://ventoy.net/cn/index.html",
+              "description": "新一代多系统启动U盘解决方案\nVentoy is an open source tool to create bootable USB drive for ISO files. With ventoy, you don",
+              "icon": "/assets/favicon_1765331865653.ico",
+              "enabled": true
             }
           ]
         },
