@@ -953,7 +953,16 @@
       "icon": "Star",
       "description": "精选开源项目",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765422899420_ls3eioaaw",
+          "title": "GitHub - LOG1997/log-lottery: 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。",
+          "href": "https://github.com/LOG1997/log-lottery",
+          "description": "🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。. Contribute to LOG1997/log-lottery development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1765422889229.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
