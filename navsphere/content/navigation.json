@@ -768,6 +768,14 @@
               "description": "提供可靠的原版软件",
               "icon": "/assets/favicon_1765420648640.png",
               "enabled": true
+            },
+            {
+              "id": "site_1765422707850_9lcr46g29",
+              "title": "Motrix",
+              "href": "https://motrix.app/",
+              "description": "M o t r i x\nA full-featured download manager",
+              "icon": "/assets/favicon_1765422686907.png",
+              "enabled": true
             }
           ]
         },
