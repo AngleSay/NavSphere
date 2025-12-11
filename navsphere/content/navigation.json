@@ -778,7 +778,16 @@
           "icon": "Cloud",
           "description": "提供可在线使用的工具吗",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1765420864173_b8qdq0f4w",
+              "title": "Alltoall",
+              "href": "https://www.alltoall.net/",
+              "description": "PDF转WORD 以及更多\n免费的在线格式转换工具",
+              "icon": "/assets/favicon_1765420806713.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
