@@ -853,6 +853,14 @@
           "description": "我有一书网免费共享网络书籍小说，还有许多影视原著小说免费阅读，希望大家喜欢我们网站！",
           "icon": "/assets/favicon_1764741777910.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765421577580_ijv8gk0zv",
+          "title": "奇书网-TXT电子书免费下载,TXT全集下载,全本,完本小说,完结小说",
+          "href": "https://qishu99.cc/",
+          "description": "奇书网官网提供TXT电子书免费下载,TXT全集下载,小说TXT下载,全本完本完结TXT小说下载,奇书网TXT小说都是通过网友上传,TXT全本小说电子书下载尽在奇书网.",
+          "icon": "/assets/favicon_1765421571153.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
