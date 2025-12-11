@@ -810,6 +810,14 @@
               "description": "智能免费在线图片压缩工具，支持JPEG、PNG、WEBP格式图片，批量快速压缩。",
               "icon": "/assets/favicon_1765421136128.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1765421209611_6imnj26vz",
+              "title": "【在线PS】【ps软件】在线Photoshop|编辑图片器",
+              "href": "https://www.tuyitu.com/",
+              "description": "ps, ps在线Photoshop图片处理软件是一个专业的在线ps图片编辑器软件。免费PS软件强大的在线Photoshop设计满足您对照片编辑、美化、抠图的所有需求。",
+              "icon": "/assets/favicon_1765421202211.png",
+              "enabled": true
             }
           ]
         }
