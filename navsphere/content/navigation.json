@@ -871,7 +871,16 @@
       "icon": "Palette",
       "description": "主打无版权图片网站整理和分享",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765421788934_j4hk5bb0k",
+          "title": "Lummi — Free AI Stock Images, Illustrations &amp; 3D",
+          "href": "https://www.lummi.ai/",
+          "description": "主打零版权焦虑，网站内所有照片、插画、3D渲染图都由AI生成，可商用、可二改、不用署名，非常适合PPT、公众号、海报、配图场景",
+          "icon": "/assets/favicon_1765421768816.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
