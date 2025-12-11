@@ -671,6 +671,14 @@
               "description": "Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  - GitHub - siddharthvaddem/openscreen: Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
               "icon": "/assets/favicon_1765422594930.png",
               "enabled": true
+            },
+            {
+              "id": "site_1765422664038_376dg9ci8",
+              "title": "GitHub - agalwood/Motrix: A full-featured download manager.",
+              "href": "https://github.com/agalwood/Motrix",
+              "description": "A full-featured download manager. Contribute to agalwood/Motrix development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1765422650586.png",
+              "enabled": true
             }
           ]
         },
