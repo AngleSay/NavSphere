@@ -842,6 +842,14 @@
               "description": "免费在线视频剪辑工具，支持快速裁剪视频长度。本地处理，保护隐私，支持多种格式。",
               "icon": "/assets/favicon_1765421978834.png",
               "enabled": true
+            },
+            {
+              "id": "site_1765422166109_a1tbvytt5",
+              "title": "免费 Emoji 表情符号 - 复制、粘贴和下载所有表情",
+              "href": "https://emojidir.com/zh-CN",
+              "description": "探索数千个表情符号。免费复制、粘贴和下载来自 Microsoft Fluent、Google Noto 和系统平台的表情。完美适用于消息和项目。",
+              "icon": "/assets/favicon_1765422160585.svg",
+              "enabled": true
             }
           ]
         }
