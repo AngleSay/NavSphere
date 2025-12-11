@@ -744,6 +744,14 @@
               "description": "新一代多系统启动U盘解决方案\nVentoy is an open source tool to create bootable USB drive for ISO files. With ventoy, you don",
               "icon": "/assets/favicon_1765331865653.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1765420669404_t5inmxqjt",
+              "title": "NEXT, ITELLYOU",
+              "href": "https://next.itellyou.cn/",
+              "description": "提供可靠的原版软件",
+              "icon": "/assets/favicon_1765420648640.png",
+              "enabled": true
             }
           ]
         },
