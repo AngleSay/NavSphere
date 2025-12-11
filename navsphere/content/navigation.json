@@ -864,6 +864,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1765421710964",
+      "title": "图片",
+      "icon": "Palette",
+      "description": "主打无版权图片网站整理和分享",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
