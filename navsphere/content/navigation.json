@@ -834,6 +834,14 @@
               "description": "Click the mic and hum a clear tune of your favorite song, or let the app listen to music playing around you.",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.humtosearch.app",
               "enabled": true
+            },
+            {
+              "id": "site_1765421984462_eyraoiilc",
+              "title": "Vid2X - Online Video Trimmer | 在线视频剪辑工具",
+              "href": "https://vid2x.cn/",
+              "description": "免费在线视频剪辑工具，支持快速裁剪视频长度。本地处理，保护隐私，支持多种格式。",
+              "icon": "/assets/favicon_1765421978834.png",
+              "enabled": true
             }
           ]
         }
