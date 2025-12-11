@@ -826,6 +826,14 @@
               "description": "图拼宝是一款完全免费的在线图片拼接工具，支持多种布局模板，可以轻松制作照片拼图。无需下载安装，一键导入图片，快速创建精美的图片拼贴作品。",
               "icon": "/assets/favicon_1765421378233.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1765421958810_8p35xd4cm",
+              "title": "Hum to Search - Music Recognition App",
+              "href": "https://www.humtosearch.app/",
+              "description": "Click the mic and hum a clear tune of your favorite song, or let the app listen to music playing around you.",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.humtosearch.app",
+              "enabled": true
             }
           ]
         }
