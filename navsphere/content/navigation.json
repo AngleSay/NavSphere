@@ -679,6 +679,14 @@
               "description": "A full-featured download manager. Contribute to agalwood/Motrix development by creating an account on GitHub.",
               "icon": "/assets/favicon_1765422650586.png",
               "enabled": true
+            },
+            {
+              "id": "site_1765422781194_p8yyn83jd",
+              "title": "GitHub - alam00000/bentopdf: A Privacy First PDF Toolkit",
+              "href": "https://github.com/alam00000/bentopdf",
+              "description": "A Privacy First PDF Toolkit. Contribute to alam00000/bentopdf development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1765422775238.png",
+              "enabled": true
             }
           ]
         },
