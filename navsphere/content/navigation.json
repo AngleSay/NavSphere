@@ -903,6 +903,14 @@
           "description": "主打零版权焦虑，网站内所有照片、插画、3D渲染图都由AI生成，可商用、可二改、不用署名，非常适合PPT、公众号、海报、配图场景",
           "icon": "/assets/favicon_1765421768816.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765422188698_aiedsqni0",
+          "title": "高清壁纸_壁纸大全_壁纸下载_免费壁纸_4k壁纸_宝藏图库",
+          "href": "https://www.baozangtuku.com/",
+          "description": "宝藏图库网站，提供海量高清壁纸资源，动漫、游戏、美女、风景等壁纸类型应有尽有。轻松下载心仪壁纸，装点您的电脑。壁纸大全任你挑选，尽在宝藏图库！",
+          "icon": "/assets/favicon_1765422183731.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
