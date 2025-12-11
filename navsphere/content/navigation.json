@@ -946,6 +946,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1765422874084",
+      "title": "开源项目",
+      "icon": "Star",
+      "description": "精选开源项目",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
