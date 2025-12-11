@@ -786,6 +786,14 @@
               "description": "PDF转WORD 以及更多\n免费的在线格式转换工具",
               "icon": "/assets/favicon_1765420806713.png",
               "enabled": true
+            },
+            {
+              "id": "site_1765420950022_hnmnkx8yy",
+              "title": "识鸟 - 免费在线识别鸟类",
+              "href": "https://birdfinder.app/zh",
+              "description": "使用我们先进的AI观鸟识别工具，发现身边的鸟类世界。上传照片，即可通过AI技术瞬间识别鸟类物种，获取详细的栖息地、行为习性和鸟鸣信息。",
+              "icon": "/assets/favicon_1765420943556.ico",
+              "enabled": true
             }
           ]
         }
