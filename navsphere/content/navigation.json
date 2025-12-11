@@ -771,6 +771,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "d62fd059-94eb-4406-af3a-b8f2c637d73c",
+          "title": "在线工具",
+          "icon": "Cloud",
+          "description": "提供可在线使用的工具吗",
+          "enabled": true,
+          "items": []
         }
       ]
     },
