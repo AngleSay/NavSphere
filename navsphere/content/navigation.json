@@ -1029,6 +1029,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1766137111122",
+      "title": "游戏资源",
+      "icon": "Palette",
+      "description": "游戏站，游戏论坛",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
