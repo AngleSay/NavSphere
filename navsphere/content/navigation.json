@@ -900,6 +900,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "2dbb9148-66c4-4f11-af99-45acbbe1e83e",
+          "title": "浏览器",
+          "icon": "Brain",
+          "description": "小众好使的浏览器",
+          "enabled": true,
+          "items": []
         }
       ]
     },
