@@ -1036,7 +1036,16 @@
       "icon": "Palette",
       "description": "游戏站，游戏论坛",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1766137245435",
+          "title": "Hikarinagi - 一个ACGN文化社区",
+          "href": "https://www.hikarinagi.org/",
+          "description": "一个ACGN文化社区，无限制地交流和分享。",
+          "icon": "/assets/favicon_1766137248845.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
