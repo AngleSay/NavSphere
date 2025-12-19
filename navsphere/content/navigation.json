@@ -762,14 +762,6 @@
               "enabled": true
             },
             {
-              "id": "site_1765245687582_rrprdmw35",
-              "title": "Sqlark",
-              "href": "https://www.sqlark.com/",
-              "description": "信创数据库开发，用百灵",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sqlark.com",
-              "enabled": true
-            },
-            {
               "id": "site_1765331901221_lqu8pkuhm",
               "title": "Ventoy",
               "href": "https://ventoy.net/cn/index.html",
@@ -791,6 +783,14 @@
               "href": "https://motrix.app/",
               "description": "M o t r i x\nA full-featured download manager",
               "icon": "/assets/favicon_1765422686907.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1765245687582_rrprdmw35",
+              "title": "Sqlark",
+              "href": "https://www.sqlark.com/",
+              "description": "信创数据库开发，用百灵",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sqlark.com",
               "enabled": true
             },
             {
