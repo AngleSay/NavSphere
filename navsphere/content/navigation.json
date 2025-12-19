@@ -1076,6 +1076,14 @@
           "description": "又是一个博客",
           "icon": "/assets/favicon_1766137841974.ico",
           "enabled": true
+        },
+        {
+          "id": "1766137931801",
+          "title": "橘子下载 - switch游戏下载,ns游戏下载,ns游戏资源网",
+          "href": "https://www.juzixiazai.com/",
+          "description": "橘子下载持续更新NS游戏资源,switch游戏下载资源,系统固件,常用工具,nsp,xci,nsz多格式选择,找switch中文游戏,ns游戏下载就来免费的ns游戏资源网。",
+          "icon": "/assets/favicon_1766137937093.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
