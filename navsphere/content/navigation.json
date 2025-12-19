@@ -1060,6 +1060,14 @@
           "description": "稻荷GAL是一个温馨的Galgame资源分享社区。这里有热爱视觉小说的同好们在分享游戏资源,免费且不限速的下载，没有劣质网盘。提供最新的Galgame游戏、汉化补丁、音乐资源等。",
           "icon": "/assets/favicon_1766137497997.ico",
           "enabled": true
+        },
+        {
+          "id": "1766137743118",
+          "title": "Switch618",
+          "href": "https://www.switch618.com/",
+          "description": "访问 www.switch618.com",
+          "icon": "/assets/favicon_1766137747441.png",
+          "enabled": true
         }
       ],
       "subCategories": []
