@@ -1052,6 +1052,14 @@
           "description": "一个ACGN文化社区，无限制地交流和分享。",
           "icon": "/assets/favicon_1766137248845.ico",
           "enabled": true
+        },
+        {
+          "id": "1766137493836",
+          "title": "稻荷GAL - 免费Galgame资源下载分享社区",
+          "href": "https://inarigal.com/",
+          "description": "稻荷GAL是一个温馨的Galgame资源分享社区。这里有热爱视觉小说的同好们在分享游戏资源,免费且不限速的下载，没有劣质网盘。提供最新的Galgame游戏、汉化补丁、音乐资源等。",
+          "icon": "/assets/favicon_1766137497997.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
