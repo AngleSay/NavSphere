@@ -57,14 +57,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1766114564154_nqoh21hbp",
-              "title": "壳儿 - 免费影视在线观看",
-              "href": "https://cursor.beauty/",
-              "description": "壳儿 - 免费观看最新热门影视剧集，海量高清资源在线播放，支持多集连播",
-              "icon": "/assets/favicon_1766114551271.ico",
-              "enabled": true
-            },
-            {
               "id": "site_1763114826316_kvilz582r",
               "title": "麦田影院-好看的电影电视剧,海量高清影视免费在线观看",
               "href": "http://mtyy1.com/",
@@ -230,6 +222,14 @@
               "href": "https://www.novipnoad.net/",
               "description": "不负追剧好时光",
               "icon": "/assets/favicon_1764934324481.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1766114564154_nqoh21hbp",
+              "title": "壳儿 - 免费影视在线观看",
+              "href": "https://cursor.beauty/",
+              "description": "壳儿 - 免费观看最新热门影视剧集，海量高清资源在线播放，支持多集连播",
+              "icon": "/assets/favicon_1766114551271.ico",
               "enabled": true
             },
             {
