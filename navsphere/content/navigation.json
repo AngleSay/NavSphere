@@ -923,6 +923,14 @@
               "description": "精美的新拟态设计，超多的浏览器拓展支持，兼容谷歌/火狐。简单的外表下藏着巨大的功能",
               "icon": "/assets/favicon_1766117027524.png",
               "enabled": true
+            },
+            {
+              "id": "1766136159047",
+              "title": "极速浏览器官方下载 - 极速浏览器官网",
+              "href": "https://tsbrowser.xiangtatech.com/",
+              "description": "这是来自极速浏览器官方为广大用户们推出的一款双核极速浏览器，拥有最新Chrome内核和IE内核，因此也叫做Chrome极速浏览器。极速浏览器官方旨在打造一款简洁而极速高效的浏览器，为用户提供极速而安全的上网体验。",
+              "icon": "/assets/favicon_1766136164748.ico",
+              "enabled": true
             }
           ]
         }
