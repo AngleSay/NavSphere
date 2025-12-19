@@ -792,6 +792,14 @@
               "description": "M o t r i x\nA full-featured download manager",
               "icon": "/assets/favicon_1765422686907.png",
               "enabled": true
+            },
+            {
+              "id": "1766114898941",
+              "title": "U-tools",
+              "href": "https://www.u-tools.cn/",
+              "description": "是一种高效工作方式\nAI 时代的轻工具平台，一个入口，无限能力",
+              "icon": "/assets/favicon_1766114903253.png",
+              "enabled": true
             }
           ]
         },
