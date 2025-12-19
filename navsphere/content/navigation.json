@@ -57,6 +57,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "site_1766114564154_nqoh21hbp",
+              "title": "壳儿 - 免费影视在线观看",
+              "href": "https://cursor.beauty/",
+              "description": "壳儿 - 免费观看最新热门影视剧集，海量高清资源在线播放，支持多集连播",
+              "icon": "/assets/favicon_1766114551271.ico",
+              "enabled": true
+            },
+            {
               "id": "site_1763114826316_kvilz582r",
               "title": "麦田影院-好看的电影电视剧,海量高清影视免费在线观看",
               "href": "http://mtyy1.com/",
@@ -238,14 +246,6 @@
               "href": "https://www.knvod.com/",
               "description": "在线影视站，涵盖电影、电视剧、动漫、综艺和短剧等，可按类型、地区、年份、语言进行筛选，可按最新、热度、评分进行排序，内置超多播放线路，如遇问题可以切换，免费无广告，无需注册。\n访问 www.knvod.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.knvod.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1766114564154_nqoh21hbp",
-              "title": "壳儿 - 免费影视在线观看",
-              "href": "https://cursor.beauty/",
-              "description": "壳儿 - 免费观看最新热门影视剧集，海量高清资源在线播放，支持多集连播",
-              "icon": "/assets/favicon_1766114551271.ico",
               "enabled": true
             }
           ]
