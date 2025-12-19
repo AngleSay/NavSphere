@@ -915,6 +915,14 @@
               "description": "猫眼浏览器是一款以简约安全为目标Chrome内核增强版浏览器.",
               "icon": "/assets/favicon_1766116787330.png",
               "enabled": true
+            },
+            {
+              "id": "1766117022394",
+              "title": "可拓刘浏览器",
+              "href": "https://ktllq.cn/",
+              "description": "精美的新拟态设计，超多的浏览器拓展支持，兼容谷歌/火狐。简单的外表下藏着巨大的功能",
+              "icon": "/assets/favicon_1766117027524.png",
+              "enabled": true
             }
           ]
         }
