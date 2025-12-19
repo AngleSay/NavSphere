@@ -907,7 +907,16 @@
           "icon": "Brain",
           "description": "小众好使的浏览器",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1766116783856",
+              "title": "猫眼浏览器--仅为简约安全",
+              "href": "https://www.catsxp.com/",
+              "description": "猫眼浏览器是一款以简约安全为目标Chrome内核增强版浏览器.",
+              "icon": "/assets/favicon_1766116787330.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
