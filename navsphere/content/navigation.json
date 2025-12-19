@@ -46,6 +46,14 @@
               "description": "记住以下网址回家。\nhttps://www.jiandandm.com\nhttps://www.maghh.com\nhttps://www.997dm.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=cn.211dm.com",
               "enabled": true
+            },
+            {
+              "id": "1766137328177",
+              "title": "稀饭动漫",
+              "href": "https://dm.xifanacg.com/",
+              "description": "在这里发现 喜爱的番剧\nhttps://xifan.moe/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dm.xifanacg.com",
+              "enabled": true
             }
           ]
         },
