@@ -982,6 +982,14 @@
           "description": "奇书网官网提供TXT电子书免费下载,TXT全集下载,小说TXT下载,全本完本完结TXT小说下载,奇书网TXT小说都是通过网友上传,TXT全本小说电子书下载尽在奇书网.",
           "icon": "/assets/favicon_1765421571153.ico",
           "enabled": true
+        },
+        {
+          "id": "1766138180116",
+          "title": "苦瓜书盘",
+          "href": "https://kgbook.com/",
+          "description": "苦瓜书盘是供网友交流适合电纸书阅读的6寸pdf及mobi格式电子书制作技术的网站，提供6寸pdf、mobi等格式电子书上传及下载。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=kgbook.com",
+          "enabled": true
         }
       ],
       "subCategories": []
