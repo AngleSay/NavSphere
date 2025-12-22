@@ -816,6 +816,14 @@
               "description": "是一种高效工作方式\nAI 时代的轻工具平台，一个入口，无限能力",
               "icon": "/assets/favicon_1766114903253.png",
               "enabled": true
+            },
+            {
+              "id": "site_1766397664874_dnokjm1fk",
+              "title": "XPipe",
+              "href": "https://xpipe.io/",
+              "description": "Your entire server infrastructure at your fingertips",
+              "icon": "/assets/favicon_1766397652725.ico",
+              "enabled": true
             }
           ]
         },
