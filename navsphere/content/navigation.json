@@ -263,6 +263,14 @@
               "description": "在线影视站，涵盖电影、电视剧、动漫、综艺和短剧等，可按类型、地区、年份、语言进行筛选，可按最新、热度、评分进行排序，内置超多播放线路，如遇问题可以切换，免费无广告，无需注册。\n访问 www.knvod.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.knvod.com",
               "enabled": true
+            },
+            {
+              "id": "1767172923972",
+              "title": "蛋蛋赞影院 | 最新最全高清在线影院",
+              "href": "https://www.dandanzan.me/",
+              "description": "蛋蛋赞影院全球唯一不用安装播放器的在线电影网,每天第一时间更新",
+              "icon": "/assets/favicon_1767172927435.png",
+              "enabled": true
             }
           ]
         },
