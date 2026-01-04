@@ -257,6 +257,14 @@
               "enabled": true
             },
             {
+              "id": "1767173155596",
+              "title": "极光影视",
+              "href": "https://hellociqryx6e.com/",
+              "description": "极光影视是一个免费为广大追剧迷提供在线播放的影视站，涵盖大量免费的VIP电视剧资源、最新上映大片、好看的综艺节目及动漫视频，是一个播放速度快，资源多的免费影视网站",
+              "icon": "/assets/favicon_1767173160151.png",
+              "enabled": true
+            },
+            {
               "id": "site_1763719101044_4zohgoodg",
               "title": "耐看点播",
               "href": "https://nkvod.me/",
@@ -270,14 +278,6 @@
               "href": "https://www.knvod.com/",
               "description": "在线影视站，涵盖电影、电视剧、动漫、综艺和短剧等，可按类型、地区、年份、语言进行筛选，可按最新、热度、评分进行排序，内置超多播放线路，如遇问题可以切换，免费无广告，无需注册。\n访问 www.knvod.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.knvod.com",
-              "enabled": true
-            },
-            {
-              "id": "1767173155596",
-              "title": "极光影视",
-              "href": "https://hellociqryx6e.com/",
-              "description": "极光影视是一个免费为广大追剧迷提供在线播放的影视站，涵盖大量免费的VIP电视剧资源、最新上映大片、好看的综艺节目及动漫视频，是一个播放速度快，资源多的免费影视网站",
-              "icon": "/assets/favicon_1767173160151.png",
               "enabled": true
             }
           ]
