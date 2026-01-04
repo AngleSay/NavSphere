@@ -856,6 +856,14 @@
               "description": "信创数据库开发，用百灵",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sqlark.com",
               "enabled": true
+            },
+            {
+              "id": "1767491370414",
+              "title": "Quicker软件 您的指尖工具箱 - Quicker",
+              "href": "https://getquicker.net/",
+              "description": "Quicker，Windows效率工具。快速触发 + 自动化。",
+              "icon": "/assets/favicon_1767491374313.png",
+              "enabled": true
             }
           ]
         },
