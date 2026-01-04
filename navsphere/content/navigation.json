@@ -9,55 +9,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "79afcbc2-b13e-42d0-9376-6bca78301d4e",
-          "title": "动漫",
-          "icon": "Palette",
-          "description": "动漫",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1764637947228_6cbwcw68y",
-              "title": "MX动漫-专注在线动漫的樱花动漫备用网站",
-              "href": "https://www.mxdm.xyz/",
-              "description": "MX动漫永久域名：mxdm.tv 地址发布页：mxdm.fans\nMX动漫提供最新最快的在线观看动漫番剧资源，在线观看完全免费、无须注册、高速播放、更新及时的专业在线动漫网站，是樱花动漫外最好打的备用动漫网站。",
-              "icon": "/assets/favicon_1764637905367.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1764638586062_28rn0z6f5",
-              "title": "番组百科|动漫科 - 动漫收藏&整理",
-              "href": "https://www.anibk.com/",
-              "description": "动漫科是一个专门为动漫爱好者设计的以收藏和整理形式展示的网站，站内有每部动画的详细信息以及截图/视频预览等功能。————欢迎使用番组百科之动漫科！",
-              "icon": "/assets/favicon_1764638576571.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1764820064104_3uzivxvvz",
-              "title": "萌道动漫 - 日本新番动漫，好看的动漫大全聚合网站",
-              "href": "https://www.mengdao.tv/",
-              "description": "备用地址：www.mddm.tv\n萌道动漫收集整理最新好看的动漫动画片大全，提供日本、欧美等最优质的动漫动画片视频资源，支持手机观看，致力打造专业在线动漫聚合网站.",
-              "icon": "/assets/favicon_1764820031377.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1764819941703_0wcz6103q",
-              "title": "omofun动漫",
-              "href": "https://cn.211dm.com/",
-              "description": "记住以下网址回家。\nhttps://www.jiandandm.com\nhttps://www.maghh.com\nhttps://www.997dm.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cn.211dm.com",
-              "enabled": true
-            },
-            {
-              "id": "1766137328177",
-              "title": "稀饭动漫",
-              "href": "https://dm.xifanacg.com/",
-              "description": "在这里发现 喜爱的番剧\nhttps://xifan.moe/",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dm.xifanacg.com",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "c0c8f61b-c5d3-46fb-9276-586fb5be059e",
           "title": "VIP影视",
           "icon": "Video",
@@ -278,6 +229,55 @@
               "href": "https://www.knvod.com/",
               "description": "在线影视站，涵盖电影、电视剧、动漫、综艺和短剧等，可按类型、地区、年份、语言进行筛选，可按最新、热度、评分进行排序，内置超多播放线路，如遇问题可以切换，免费无广告，无需注册。\n访问 www.knvod.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.knvod.com",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "79afcbc2-b13e-42d0-9376-6bca78301d4e",
+          "title": "动漫",
+          "icon": "Palette",
+          "description": "动漫",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1764637947228_6cbwcw68y",
+              "title": "MX动漫-专注在线动漫的樱花动漫备用网站",
+              "href": "https://www.mxdm.xyz/",
+              "description": "MX动漫永久域名：mxdm.tv 地址发布页：mxdm.fans\nMX动漫提供最新最快的在线观看动漫番剧资源，在线观看完全免费、无须注册、高速播放、更新及时的专业在线动漫网站，是樱花动漫外最好打的备用动漫网站。",
+              "icon": "/assets/favicon_1764637905367.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1764638586062_28rn0z6f5",
+              "title": "番组百科|动漫科 - 动漫收藏&整理",
+              "href": "https://www.anibk.com/",
+              "description": "动漫科是一个专门为动漫爱好者设计的以收藏和整理形式展示的网站，站内有每部动画的详细信息以及截图/视频预览等功能。————欢迎使用番组百科之动漫科！",
+              "icon": "/assets/favicon_1764638576571.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1764820064104_3uzivxvvz",
+              "title": "萌道动漫 - 日本新番动漫，好看的动漫大全聚合网站",
+              "href": "https://www.mengdao.tv/",
+              "description": "备用地址：www.mddm.tv\n萌道动漫收集整理最新好看的动漫动画片大全，提供日本、欧美等最优质的动漫动画片视频资源，支持手机观看，致力打造专业在线动漫聚合网站.",
+              "icon": "/assets/favicon_1764820031377.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1764819941703_0wcz6103q",
+              "title": "omofun动漫",
+              "href": "https://cn.211dm.com/",
+              "description": "记住以下网址回家。\nhttps://www.jiandandm.com\nhttps://www.maghh.com\nhttps://www.997dm.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cn.211dm.com",
+              "enabled": true
+            },
+            {
+              "id": "1766137328177",
+              "title": "稀饭动漫",
+              "href": "https://dm.xifanacg.com/",
+              "description": "在这里发现 喜爱的番剧\nhttps://xifan.moe/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dm.xifanacg.com",
               "enabled": true
             }
           ]
