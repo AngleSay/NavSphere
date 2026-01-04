@@ -818,14 +818,6 @@
               "enabled": true
             },
             {
-              "id": "site_1765245687582_rrprdmw35",
-              "title": "Sqlark",
-              "href": "https://www.sqlark.com/",
-              "description": "信创数据库开发，用百灵",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sqlark.com",
-              "enabled": true
-            },
-            {
               "id": "1766114898941",
               "title": "U-tools",
               "href": "https://www.u-tools.cn/",
@@ -847,6 +839,14 @@
               "href": "https://upscayl.org/",
               "description": "Upscayl - AI Image Upscaler",
               "icon": "/assets/favicon_1767491270222.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1765245687582_rrprdmw35",
+              "title": "Sqlark",
+              "href": "https://www.sqlark.com/",
+              "description": "信创数据库开发，用百灵",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sqlark.com",
               "enabled": true
             }
           ]
