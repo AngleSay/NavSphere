@@ -995,6 +995,14 @@
               "description": "这是来自极速浏览器官方为广大用户们推出的一款双核极速浏览器，拥有最新Chrome内核和IE内核，因此也叫做Chrome极速浏览器。极速浏览器官方旨在打造一款简洁而极速高效的浏览器，为用户提供极速而安全的上网体验。",
               "icon": "/assets/favicon_1766136164748.ico",
               "enabled": true
+            },
+            {
+              "id": "1767491623566",
+              "title": "Zen Browser",
+              "href": "https://zen-browser.app/",
+              "description": "Beautifully designed, privacy-focused, and packed with features.",
+              "icon": "/assets/favicon_1767491624432.svg",
+              "enabled": true
             }
           ]
         }
