@@ -848,6 +848,14 @@
               "description": "信创数据库开发，用百灵",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sqlark.com",
               "enabled": true
+            },
+            {
+              "id": "1767491307088",
+              "title": "Gopeed - 一款现代化的下载器",
+              "href": "https://gopeed.com/zh-CN",
+              "description": "开源、轻量、原生，支持（HTTP、BitTorrent、Magnet 等）协议下载。",
+              "icon": "/assets/favicon_1767491308704.ico",
+              "enabled": true
             }
           ]
         },
