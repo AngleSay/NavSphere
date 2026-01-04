@@ -840,6 +840,14 @@
               "description": "Your entire server infrastructure at your fingertips",
               "icon": "/assets/favicon_1766397652725.ico",
               "enabled": true
+            },
+            {
+              "id": "1767491269294",
+              "title": "Upscayl - AI Image Upscaler",
+              "href": "https://upscayl.org/",
+              "description": "Upscayl - AI Image Upscaler",
+              "icon": "/assets/favicon_1767491270222.png",
+              "enabled": true
             }
           ]
         },
