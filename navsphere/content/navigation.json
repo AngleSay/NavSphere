@@ -1122,6 +1122,14 @@
           "description": "🔥 🔥 🔥 Open Source Airtable Alternative. Contribute to nocodb/nocodb development by creating an account on GitHub.",
           "icon": "/assets/favicon_1767576562481.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767576961512_4c7hchbnv",
+          "title": "GitHub - bin456789/reinstall: 一键DD/重装脚本 (One-click reinstall OS on VPS)",
+          "href": "https://github.com/bin456789/reinstall",
+          "description": "一键DD/重装脚本 (One-click reinstall OS on VPS). Contribute to bin456789/reinstall development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1767576955020.png",
+          "enabled": true
         }
       ],
       "subCategories": []
