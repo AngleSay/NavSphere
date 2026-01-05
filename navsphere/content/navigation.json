@@ -962,6 +962,14 @@
               "description": "探索数千个表情符号。免费复制、粘贴和下载来自 Microsoft Fluent、Google Noto 和系统平台的表情。完美适用于消息和项目。",
               "icon": "/assets/favicon_1765422160585.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1767576764282_78lz36kgx",
+              "title": "大瑜的AI编程实战 - 10年程序员的AI转型之路",
+              "href": "https://dayulab.com/tools",
+              "description": "10年资深程序员，万粉公众号博主，分享AI编程实战经验，Cursor、提示词工程、开发效率提升",
+              "icon": "/assets/favicon_1767576754320.ico",
+              "enabled": true
             }
           ]
         },
