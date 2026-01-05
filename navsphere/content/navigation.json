@@ -1106,6 +1106,14 @@
           "description": "\nhttps://weknora.weixin.qq.com/\nLLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. - Tencent/WeKnora",
           "icon": "/assets/favicon_1765878740288.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767576573008_8mogmgnpb",
+          "title": "GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative",
+          "href": "https://github.com/nocodb/nocodb",
+          "description": "🔥 🔥 🔥 Open Source Airtable Alternative. Contribute to nocodb/nocodb development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1767576562481.png",
+          "enabled": true
         }
       ],
       "subCategories": []
