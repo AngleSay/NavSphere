@@ -1138,6 +1138,14 @@
           "description": "Yet Another Document Translator. Contribute to funstory-ai/BabelDOC development by creating an account on GitHub.",
           "icon": "/assets/favicon_1767577019115.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767577427335_it9b4i4mk",
+          "title": "GitHub - g1879/DrissionPage: Python based web automation tool. Powerful and elegant.",
+          "href": "https://github.com/g1879/DrissionPage",
+          "description": "Python based web automation tool. Powerful and elegant. - g1879/DrissionPage",
+          "icon": "/assets/favicon_1767577423374.png",
+          "enabled": true
         }
       ],
       "subCategories": []
