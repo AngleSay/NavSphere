@@ -970,6 +970,14 @@
               "description": "Click the mic and hum a clear tune of your favorite song, or let the app listen to music playing around you.",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.humtosearch.app",
               "enabled": true
+            },
+            {
+              "id": "1767842380221",
+              "title": "JustHTMLs - 开源 HTML 工具集",
+              "href": "https://www.htmls.dev/",
+              "description": "JustHTMLs 是一个开源的 HTML 工具集平台，汇集各种轻量级的在线工具，无需安装，即开即用。",
+              "icon": "/assets/favicon_1767842384301.svg",
+              "enabled": true
             }
           ]
         },
