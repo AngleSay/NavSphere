@@ -727,6 +727,14 @@
               "description": "A Privacy First PDF Toolkit. Contribute to alam00000/bentopdf development by creating an account on GitHub.",
               "icon": "/assets/favicon_1765422775238.png",
               "enabled": true
+            },
+            {
+              "id": "1767842425994",
+              "title": "GitHub - justhtmls/html-tools: 开源 HTML 工具集 - 轻量、整洁、免费、隐私、无需安装",
+              "href": "https://github.com/justhtmls/html-tools",
+              "description": "开源 HTML 工具集 - 轻量、整洁、免费、隐私、无需安装. Contribute to justhtmls/html-tools development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1767842429957.png",
+              "enabled": true
             }
           ]
         },
