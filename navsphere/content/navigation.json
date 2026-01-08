@@ -743,6 +743,14 @@
               "description": "开源 HTML 工具集 - 轻量、整洁、免费、隐私、无需安装. Contribute to justhtmls/html-tools development by creating an account on GitHub.",
               "icon": "/assets/favicon_1767842429957.png",
               "enabled": true
+            },
+            {
+              "id": "1767842987094",
+              "title": "GitHub - srwi/EverythingToolbar: Everything integration for the Windows taskbar.",
+              "href": "https://github.com/srwi/EverythingToolbar",
+              "description": "Everything integration for the Windows taskbar. Contribute to srwi/EverythingToolbar development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1767842991695.png",
+              "enabled": true
             }
           ]
         },
