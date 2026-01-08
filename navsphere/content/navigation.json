@@ -511,6 +511,14 @@
           "enabled": true
         },
         {
+          "id": "1767842747375",
+          "title": "开源之家-专注分享各种培训视频、破解软件、电子书等优质资源的网站",
+          "href": "https://www.linuxyz.cn/",
+          "description": "专注分享各种培训视频、破解软件、电子书等优质资源的网站",
+          "icon": "/assets/favicon_1767842753078.jpg",
+          "enabled": true
+        },
+        {
           "id": "1763568386270",
           "title": "云盘666",
           "href": "https://pan666.net/",
@@ -524,14 +532,6 @@
           "href": "https://www.123panfx.com/",
           "description": "123分享是一个非官方的站点，主要分享123云盘的资源下载。本站不储存、复制、传播、控制编辑任何网盘文件，也不提供下载服务，其链接跳转至各大网盘，文件的有效性和安全性需要您自行判断，如有侵权内容请联系我们。",
           "icon": "/assets/favicon_1763720721214.png",
-          "enabled": true
-        },
-        {
-          "id": "1767842747375",
-          "title": "开源之家-专注分享各种培训视频、破解软件、电子书等优质资源的网站",
-          "href": "https://www.linuxyz.cn/",
-          "description": "专注分享各种培训视频、破解软件、电子书等优质资源的网站",
-          "icon": "/assets/favicon_1767842753078.jpg",
           "enabled": true
         }
       ],
