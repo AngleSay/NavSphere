@@ -767,6 +767,14 @@
               "description": "Yet Another Document Translator. Contribute to funstory-ai/BabelDOC development by creating an account on GitHub.",
               "icon": "/assets/favicon_1767951875718.png",
               "enabled": true
+            },
+            {
+              "id": "1768448277168",
+              "title": "GitHub - HG-ha/MTools: MTools 是一个功能强大的全能桌面应用程序，集成了音视频处理、图片编辑、文本操作和编码工具，内置AI增强功能。旨在简化您的工作流程，提升生产效率",
+              "href": "https://github.com/HG-ha/MTools",
+              "description": "MTools 是一个功能强大的全能桌面应用程序，集成了音视频处理、图片编辑、文本操作和编码工具，内置AI增强功能。旨在简化您的工作流程，提升生产效率 - HG-ha/MTools",
+              "icon": "/assets/favicon_1768448280693.png",
+              "enabled": true
             }
           ]
         },
