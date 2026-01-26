@@ -906,19 +906,19 @@
               "enabled": true
             },
             {
-              "id": "site_1765245687582_rrprdmw35",
-              "title": "Sqlark",
-              "href": "https://www.sqlark.com/",
-              "description": "信创数据库开发，用百灵",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sqlark.com",
-              "enabled": true
-            },
-            {
               "id": "1769414138888",
               "title": "SQL & noSQL database manager - DbGate",
               "href": "https://www.dbgate.io/zh/",
               "description": "DGate 是一款快速且易于使用的数据库客户端和 SQL 编辑器，支持 MySQL、PostgreSQL、SQL Server、MongoDB 等。适用于桌面和 Web，且为开源软件。",
               "icon": "/assets/favicon_1769414142266.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1765245687582_rrprdmw35",
+              "title": "Sqlark",
+              "href": "https://www.sqlark.com/",
+              "description": "信创数据库开发，用百灵",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sqlark.com",
               "enabled": true
             }
           ]
