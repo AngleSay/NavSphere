@@ -1260,6 +1260,14 @@
           "description": "橘子下载持续更新NS游戏资源,switch游戏下载资源,系统固件,常用工具,nsp,xci,nsz多格式选择,找switch中文游戏,ns游戏下载就来免费的ns游戏资源网。",
           "icon": "/assets/favicon_1766137937093.ico",
           "enabled": true
+        },
+        {
+          "id": "1769735418184",
+          "title": "蒸汽游戏宝库 - 高质量Steam单机游戏下载站",
+          "href": "https://www.steambk.com/",
+          "description": "蒸汽游戏宝库（steambk.com）专注提供高质量Steam及经典单机游戏资源，涵盖热门大作、中文汉化版、免安装整合包下载。支持夸克盘、迅雷、UC等多网盘高速下载，提供最新游戏资讯、补丁、攻略，永久免费，为玩家打造一站式游戏下载平台。",
+          "icon": "/assets/favicon_1769735436549.png",
+          "enabled": true
         }
       ],
       "subCategories": []
