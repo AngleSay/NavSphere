@@ -937,6 +937,14 @@
               "description": "小虎吧是一款免费分享各种软件资源的app软件，在这里你可以找到解锁付费版本的实用软件,小说软件,音乐软件,漫画软件,游戏软件等，你需要的资源这里都有！",
               "icon": "/assets/favicon_1765330574268.ico",
               "enabled": true
+            },
+            {
+              "id": "1770628761177",
+              "title": "软仓",
+              "href": "https://www.ruancang.net/",
+              "description": "软仓 访问 www.ruancang.net",
+              "icon": "/assets/favicon_1770628764301.png",
+              "enabled": true
             }
           ]
         },
