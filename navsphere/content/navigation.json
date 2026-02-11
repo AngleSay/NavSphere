@@ -1085,6 +1085,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "cc00c3a7-7db2-458f-aede-4bbc344e0e8e",
+          "title": "影音播放器",
+          "icon": "Video",
+          "description": "影音播放器",
+          "enabled": true,
+          "items": []
         }
       ]
     },
