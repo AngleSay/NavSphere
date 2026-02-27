@@ -1066,6 +1066,14 @@
               "description": "免费、漂亮的封面生成器",
               "icon": "/assets/favicon_1772179979578.ico",
               "enabled": true
+            },
+            {
+              "id": "1772180036640",
+              "title": "素材SoSo-免版权素材智能搜索引擎",
+              "href": "https://clipso.agilestudio.cn/",
+              "description": "素材SoSo是一个AI智能素材搜索引擎，能帮助内容创作者快速找到免版权视频和图片素材。",
+              "icon": "/assets/favicon_1772180040346.svg",
+              "enabled": true
             }
           ]
         },
