@@ -1074,6 +1074,14 @@
               "description": "素材SoSo是一个AI智能素材搜索引擎，能帮助内容创作者快速找到免版权视频和图片素材。",
               "icon": "/assets/favicon_1772180040346.svg",
               "enabled": true
+            },
+            {
+              "id": "1772180248584",
+              "title": "LiblibAI-哩布哩布AI - 中国领先的AI创作平台",
+              "href": "https://www.liblib.art/",
+              "description": "AI绘画原创模型分享社区，10万+模型免费下载;原汁原味的webUI、comfyUI，在线AI绘图工具免费使用;还可在线进行模型训练。欢迎每一位创作者加入，共同探索AI绘画",
+              "icon": "/assets/favicon_1772180252451.png",
+              "enabled": true
             }
           ]
         },
