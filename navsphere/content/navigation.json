@@ -1042,6 +1042,14 @@
               "description": "Click the mic and hum a clear tune of your favorite song, or let the app listen to music playing around you.",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.humtosearch.app",
               "enabled": true
+            },
+            {
+              "id": "1772179863859",
+              "title": "在线免费文字转语音 - TTSMaker官网 | 马克配音",
+              "href": "https://ttsmaker.cn/",
+              "description": "TTSMaker（马克配音）是一个免费的AI配音平台，可以将文本转换成语音，支持50多种语言和300多种语音风格，包括各种热门短视频声音，强大的神经网络使语音听起来更加自然，您可以在线试听，或者按mp3、wav格式下载音频文件。",
+              "icon": "/assets/favicon_1772179868484.ico",
+              "enabled": true
             }
           ]
         },
