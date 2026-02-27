@@ -1058,6 +1058,14 @@
               "description": "致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！",
               "icon": "/assets/favicon_1772179908707.ico",
               "enabled": true
+            },
+            {
+              "id": "1772179977846",
+              "title": "ThisCover 封面生成器",
+              "href": "https://cover.weizwz.com",
+              "description": "免费、漂亮的封面生成器",
+              "icon": "/assets/favicon_1772179979578.ico",
+              "enabled": true
             }
           ]
         },
