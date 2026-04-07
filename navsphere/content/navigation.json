@@ -254,6 +254,14 @@
               "description": "海纳TV(www.hainatv.net)剧集网，提供实时更新全网热门高清电视剧，短剧，漫剧免费在线观看",
               "icon": "/assets/favicon_1775528793806.png",
               "enabled": true
+            },
+            {
+              "id": "1775528872107",
+              "title": "可可影视",
+              "href": "https://dl.kkys08.com/",
+              "description": "可可影视\n最新官网：www.kkys04.com\n最新官网：www.kkys05.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.kkys08.com",
+              "enabled": true
             }
           ]
         },
