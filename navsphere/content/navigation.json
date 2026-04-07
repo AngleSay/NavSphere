@@ -262,6 +262,14 @@
               "description": "可可影视\n最新官网：www.kkys04.com\n最新官网：www.kkys05.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.kkys08.com",
               "enabled": true
+            },
+            {
+              "id": "1775530295693",
+              "title": "LIBVIO · 发布页",
+              "href": "https://libviofabu.com/",
+              "description": "LIBVIO · 发布页\nhttps://libviofabu.com/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=libviofabu.com",
+              "enabled": true
             }
           ]
         },
