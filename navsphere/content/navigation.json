@@ -351,6 +351,14 @@
               "description": "访问 www.aowu.tv",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.aowu.tv",
               "enabled": true
+            },
+            {
+              "id": "1775529559261",
+              "title": "布布影视",
+              "href": "https://bbys.app/",
+              "description": "专业免费观影平台，提供最新最快的视频分享数据，高清电影电视剧免费观看，无需VIP会员，支持在线追剧，最新影视资源实时更新",
+              "icon": "/assets/favicon_1775529564942.png",
+              "enabled": true
             }
           ]
         },
