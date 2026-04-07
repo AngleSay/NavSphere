@@ -335,6 +335,14 @@
               "description": "路漫漫在线动漫专注于资源收集整理,海量有效的高质量的动漫资源在线观看,高清晰画质的在线动漫,观看完全免费。\nhttps://aisearch.cdn.bcebos.com/fileManager/Qes7ghXZk_NyOlWG8wLDsdo4Qi_SDuIBp_ZDA1O9m9w/1775484466339GXN3qe.html",
               "icon": "/assets/favicon_1775529334110.png",
               "enabled": true
+            },
+            {
+              "id": "1775529396746",
+              "title": "E站-E站弹幕网",
+              "href": "https://www.ezdmw.site/",
+              "description": "E站弹幕网是国内专业的二次元（ACG）社区. 在线动漫&下载、GALGAME、动漫图集、漫评影视等，E站弹幕网为您一网打尽。",
+              "icon": "/assets/favicon_1775529402275.png",
+              "enabled": true
             }
           ]
         },
