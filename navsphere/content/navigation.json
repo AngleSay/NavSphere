@@ -343,6 +343,14 @@
               "description": "E站弹幕网是国内专业的二次元（ACG）社区. 在线动漫&下载、GALGAME、动漫图集、漫评影视等，E站弹幕网为您一网打尽。",
               "icon": "/assets/favicon_1775529402275.png",
               "enabled": true
+            },
+            {
+              "id": "1775529432706",
+              "title": "Aowu",
+              "href": "https://www.aowu.tv/",
+              "description": "访问 www.aowu.tv",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.aowu.tv",
+              "enabled": true
             }
           ]
         },
