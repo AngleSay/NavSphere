@@ -246,6 +246,14 @@
               "description": "火车太堵",
               "icon": "/assets/favicon_1775528744541.png",
               "enabled": true
+            },
+            {
+              "id": "1775528787927",
+              "title": "海纳TV-剧集大全",
+              "href": "https://www.hainatv.net/",
+              "description": "海纳TV(www.hainatv.net)剧集网，提供实时更新全网热门高清电视剧，短剧，漫剧免费在线观看",
+              "icon": "/assets/favicon_1775528793806.png",
+              "enabled": true
             }
           ]
         },
