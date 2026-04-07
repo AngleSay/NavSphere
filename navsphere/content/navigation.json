@@ -238,6 +238,14 @@
               "description": "金牌影院",
               "icon": "/assets/favicon_1775528566428.png",
               "enabled": true
+            },
+            {
+              "id": "1775528738812",
+              "title": "火车太堵",
+              "href": "https://www.tdgo.shop/",
+              "description": "火车太堵",
+              "icon": "/assets/favicon_1775528744541.png",
+              "enabled": true
             }
           ]
         },
