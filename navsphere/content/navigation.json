@@ -270,6 +270,14 @@
               "description": "LIBVIO · 发布页\nhttps://libviofabu.com/",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=libviofabu.com",
               "enabled": true
+            },
+            {
+              "id": "1775530375574",
+              "title": "PPnix - 在线观看电影 在线观看电视剧",
+              "href": "https://www.ppnix.com/cn/",
+              "description": "在线观看 PPnix 电影和电视节目，直接播放到您的智能电视、游戏机、PC、Mac、手机、平板电脑等。",
+              "icon": "/assets/favicon_1775530381416.png",
+              "enabled": true
             }
           ]
         },
