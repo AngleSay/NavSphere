@@ -419,6 +419,14 @@
               "description": "Melofi is a productivity and relaxation web app designed to boost focus with Lofi music, stunning visuals, and powerful tools. Track your stats, manage notes, and sync with your Google Calendar—all in one seamless experience. Stay in the zone with Melofi. Try it now!",
               "icon": "/assets/favicon_1775697643930.ico",
               "enabled": true
+            },
+            {
+              "id": "1775697655554",
+              "title": "Defonic | A fabulous ambient noise generator",
+              "href": "https://defonic.com/",
+              "description": "Ambient sounds for use as background noise at home or in the office. Create your own unique sound environment with our noise generator.",
+              "icon": "/assets/favicon_1775697658991.png",
+              "enabled": true
             }
           ]
         }
