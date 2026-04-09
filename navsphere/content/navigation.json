@@ -398,6 +398,15 @@
       ]
     },
     {
+      "id": "1775697552336",
+      "title": "聆听声音",
+      "icon": "Star",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1763429130266",
       "title": "网盘搜索",
       "icon": "Box",
@@ -1422,15 +1431,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1775697552336",
-      "title": "聆听声音",
-      "icon": "Star",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
