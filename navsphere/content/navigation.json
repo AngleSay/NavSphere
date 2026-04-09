@@ -435,6 +435,14 @@
               "description": "Listen to soothing nature ambient noise like rain, ocean, pink, brown and white noise sounds and create relaxing soundscapes. Plus online timer and text editor.",
               "icon": "/assets/favicon_1775697673604.png",
               "enabled": true
+            },
+            {
+              "id": "1775697733788",
+              "title": "Rainyscope | Rain sound generator - The beauty of the rain sounds.",
+              "href": "https://rainyscope.com/",
+              "description": "Let the rain sing you a lullaby. Sound of rain for sleeping or studying.",
+              "icon": "/assets/favicon_1775697737523.png",
+              "enabled": true
             }
           ]
         }
