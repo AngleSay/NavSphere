@@ -375,6 +375,14 @@
               "description": "专业免费观影平台，提供最新最快的视频分享数据，高清电影电视剧免费观看，无需VIP会员，支持在线追剧，最新影视资源实时更新",
               "icon": "/assets/favicon_1775529564942.png",
               "enabled": true
+            },
+            {
+              "id": "1775697916142",
+              "title": "7sefun",
+              "href": "https://www.7sefun.top/",
+              "description": "访问 www.7sefun.top",
+              "icon": "/assets/favicon_1775697920517.png",
+              "enabled": true
             }
           ]
         },
