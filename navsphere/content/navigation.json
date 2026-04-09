@@ -427,6 +427,14 @@
               "description": "Ambient sounds for use as background noise at home or in the office. Create your own unique sound environment with our noise generator.",
               "icon": "/assets/favicon_1775697658991.png",
               "enabled": true
+            },
+            {
+              "id": "1775697668810",
+              "title": "Noisli - Background Noise Generator and Ambient Sounds for Focus, Sleep and Relaxation",
+              "href": "https://www.noisli.com/",
+              "description": "Listen to soothing nature ambient noise like rain, ocean, pink, brown and white noise sounds and create relaxing soundscapes. Plus online timer and text editor.",
+              "icon": "/assets/favicon_1775697673604.png",
+              "enabled": true
             }
           ]
         }
