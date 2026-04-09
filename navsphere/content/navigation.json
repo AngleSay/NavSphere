@@ -1423,6 +1423,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1775697552336",
+      "title": "聆听声音",
+      "icon": "Star",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
