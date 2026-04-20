@@ -638,6 +638,14 @@
           "description": "橘子盘搜是一款聚合搜索工具，支持5个主流网盘平台，包括百度网盘、夸克网盘、迅雷云盘等。资源丰富度高，还有不同的搜索源，支持的网盘也比较多",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.nmme.icul",
           "enabled": true
+        },
+        {
+          "id": "1776648641635",
+          "title": "威扬盘搜 WeiYoun DiskSearch - 全网最全的网盘搜索 · 威扬盘搜 WeiYoun DiskSearch",
+          "href": "https://so.weiyoun.com/",
+          "description": "威扬盘搜 WeiYoun DiskSearch：聚合阿里云盘、夸克、百度网盘、115、迅雷等平台，实时检索各类分享链接与资源，免费、快速、无广告。WeiYoun DiskSearch - Best cloud disk search engine for Alibaba, Quark, Baidu, 115, Thunder.",
+          "icon": "/assets/favicon_1776648645724.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
