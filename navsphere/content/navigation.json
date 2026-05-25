@@ -9,6 +9,128 @@
       "items": [],
       "subCategories": [
         {
+          "id": "79afcbc2-b13e-42d0-9376-6bca78301d4e",
+          "title": "动漫",
+          "icon": "Palette",
+          "description": "动漫",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1764637947228_6cbwcw68y",
+              "title": "MX动漫-专注在线动漫的樱花动漫备用网站",
+              "href": "https://www.mxdm.xyz/",
+              "description": "MX动漫永久域名：mxdm.tv 地址发布页：mxdm.fans\nMX动漫提供最新最快的在线观看动漫番剧资源，在线观看完全免费、无须注册、高速播放、更新及时的专业在线动漫网站，是樱花动漫外最好打的备用动漫网站。",
+              "icon": "/assets/favicon_1764637905367.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1764638586062_28rn0z6f5",
+              "title": "番组百科|动漫科 - 动漫收藏&整理",
+              "href": "https://www.anibk.com/",
+              "description": "动漫科是一个专门为动漫爱好者设计的以收藏和整理形式展示的网站，站内有每部动画的详细信息以及截图/视频预览等功能。————欢迎使用番组百科之动漫科！",
+              "icon": "/assets/favicon_1764638576571.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1764820064104_3uzivxvvz",
+              "title": "萌道动漫 - 日本新番动漫，好看的动漫大全聚合网站",
+              "href": "https://www.mengdao.tv/",
+              "description": "备用地址：www.mddm.tv\n萌道动漫收集整理最新好看的动漫动画片大全，提供日本、欧美等最优质的动漫动画片视频资源，支持手机观看，致力打造专业在线动漫聚合网站.",
+              "icon": "/assets/favicon_1764820031377.png",
+              "enabled": true
+            },
+            {
+              "id": "1775529196482",
+              "title": "Watch Donghua Anime Online, Episode Guides and Rankings - Donghua Fun - Watch Donghua Online Free",
+              "href": "https://donghuafun.com/",
+              "description": "Explore English-language donghua anime episode guides, release updates, watch lists, and trending series collections.",
+              "icon": "/assets/favicon_1775529202340.png",
+              "enabled": true
+            },
+            {
+              "id": "1775529321292",
+              "title": "路漫漫在线动漫-在线动画,日本动漫,国产动漫,动漫免费在线",
+              "href": "https://www.lmm85.com/",
+              "description": "路漫漫在线动漫专注于资源收集整理,海量有效的高质量的动漫资源在线观看,高清晰画质的在线动漫,观看完全免费。\nhttps://aisearch.cdn.bcebos.com/fileManager/Qes7ghXZk_NyOlWG8wLDsdo4Qi_SDuIBp_ZDA1O9m9w/1775484466339GXN3qe.html",
+              "icon": "/assets/favicon_1775529334110.png",
+              "enabled": true
+            },
+            {
+              "id": "1775529396746",
+              "title": "E站-E站弹幕网",
+              "href": "https://www.ezdmw.site/",
+              "description": "E站弹幕网是国内专业的二次元（ACG）社区. 在线动漫&下载、GALGAME、动漫图集、漫评影视等，E站弹幕网为您一网打尽。",
+              "icon": "/assets/favicon_1775529402275.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1764819941703_0wcz6103q",
+              "title": "omofun动漫",
+              "href": "https://cn.211dm.com/",
+              "description": "记住以下网址回家。\nhttps://www.jiandandm.com\nhttps://www.maghh.com\nhttps://www.997dm.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cn.211dm.com",
+              "enabled": true
+            },
+            {
+              "id": "1766137328177",
+              "title": "稀饭动漫",
+              "href": "https://dm.xifanacg.com/",
+              "description": "在这里发现 喜爱的番剧\nhttps://xifan.moe/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dm.xifanacg.com",
+              "enabled": true
+            },
+            {
+              "id": "1775529029515",
+              "title": "🍉西瓜卡通",
+              "href": "https://cn.xgcartoon.com/",
+              "description": "海量热门高清动漫，卡通，动画线上免费看。",
+              "icon": "https://cn.xgcartoon.com/xgct/icon/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "1775529432706",
+              "title": "Aowu",
+              "href": "https://www.aowu.tv/",
+              "description": "访问 www.aowu.tv",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.aowu.tv",
+              "enabled": true
+            },
+            {
+              "id": "1775529559261",
+              "title": "布布影视",
+              "href": "https://bbys.app/",
+              "description": "专业免费观影平台，提供最新最快的视频分享数据，高清电影电视剧免费观看，无需VIP会员，支持在线追剧，最新影视资源实时更新",
+              "icon": "/assets/favicon_1775529564942.png",
+              "enabled": true
+            },
+            {
+              "id": "1775697916142",
+              "title": "7sefun",
+              "href": "https://www.7sefun.top/",
+              "description": "访问 www.7sefun.top",
+              "icon": "/assets/favicon_1775697920517.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "060a52ad-f76e-418f-b202-4e2bf771014b",
+          "title": "VIP视屏解析",
+          "icon": "Link",
+          "description": "VIP视屏地址解析",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1764740876594_60bqwysqi",
+              "title": "努力鸭视频解析",
+              "href": "https://www.nuliya.top/vip/",
+              "description": "努力鸭视频解析支持爱奇艺、腾讯视频、优酷、芒果TV、乐视视频、搜狐视频、bilibili哔哩哔哩（B站）、AcFun弹幕视频网（A站）等视频解析\n访问 www.nuliya.top",
+              "icon": "/assets/favicon_1764740826885.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "c0c8f61b-c5d3-46fb-9276-586fb5be059e",
           "title": "VIP影视",
           "icon": "Video",
@@ -277,128 +399,6 @@
               "href": "https://www.ppnix.com/cn/",
               "description": "在线观看 PPnix 电影和电视节目，直接播放到您的智能电视、游戏机、PC、Mac、手机、平板电脑等。",
               "icon": "/assets/favicon_1775530381416.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "79afcbc2-b13e-42d0-9376-6bca78301d4e",
-          "title": "动漫",
-          "icon": "Palette",
-          "description": "动漫",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1764637947228_6cbwcw68y",
-              "title": "MX动漫-专注在线动漫的樱花动漫备用网站",
-              "href": "https://www.mxdm.xyz/",
-              "description": "MX动漫永久域名：mxdm.tv 地址发布页：mxdm.fans\nMX动漫提供最新最快的在线观看动漫番剧资源，在线观看完全免费、无须注册、高速播放、更新及时的专业在线动漫网站，是樱花动漫外最好打的备用动漫网站。",
-              "icon": "/assets/favicon_1764637905367.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1764638586062_28rn0z6f5",
-              "title": "番组百科|动漫科 - 动漫收藏&整理",
-              "href": "https://www.anibk.com/",
-              "description": "动漫科是一个专门为动漫爱好者设计的以收藏和整理形式展示的网站，站内有每部动画的详细信息以及截图/视频预览等功能。————欢迎使用番组百科之动漫科！",
-              "icon": "/assets/favicon_1764638576571.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1764820064104_3uzivxvvz",
-              "title": "萌道动漫 - 日本新番动漫，好看的动漫大全聚合网站",
-              "href": "https://www.mengdao.tv/",
-              "description": "备用地址：www.mddm.tv\n萌道动漫收集整理最新好看的动漫动画片大全，提供日本、欧美等最优质的动漫动画片视频资源，支持手机观看，致力打造专业在线动漫聚合网站.",
-              "icon": "/assets/favicon_1764820031377.png",
-              "enabled": true
-            },
-            {
-              "id": "1775529196482",
-              "title": "Watch Donghua Anime Online, Episode Guides and Rankings - Donghua Fun - Watch Donghua Online Free",
-              "href": "https://donghuafun.com/",
-              "description": "Explore English-language donghua anime episode guides, release updates, watch lists, and trending series collections.",
-              "icon": "/assets/favicon_1775529202340.png",
-              "enabled": true
-            },
-            {
-              "id": "1775529321292",
-              "title": "路漫漫在线动漫-在线动画,日本动漫,国产动漫,动漫免费在线",
-              "href": "https://www.lmm85.com/",
-              "description": "路漫漫在线动漫专注于资源收集整理,海量有效的高质量的动漫资源在线观看,高清晰画质的在线动漫,观看完全免费。\nhttps://aisearch.cdn.bcebos.com/fileManager/Qes7ghXZk_NyOlWG8wLDsdo4Qi_SDuIBp_ZDA1O9m9w/1775484466339GXN3qe.html",
-              "icon": "/assets/favicon_1775529334110.png",
-              "enabled": true
-            },
-            {
-              "id": "1775529396746",
-              "title": "E站-E站弹幕网",
-              "href": "https://www.ezdmw.site/",
-              "description": "E站弹幕网是国内专业的二次元（ACG）社区. 在线动漫&下载、GALGAME、动漫图集、漫评影视等，E站弹幕网为您一网打尽。",
-              "icon": "/assets/favicon_1775529402275.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1764819941703_0wcz6103q",
-              "title": "omofun动漫",
-              "href": "https://cn.211dm.com/",
-              "description": "记住以下网址回家。\nhttps://www.jiandandm.com\nhttps://www.maghh.com\nhttps://www.997dm.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cn.211dm.com",
-              "enabled": true
-            },
-            {
-              "id": "1766137328177",
-              "title": "稀饭动漫",
-              "href": "https://dm.xifanacg.com/",
-              "description": "在这里发现 喜爱的番剧\nhttps://xifan.moe/",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dm.xifanacg.com",
-              "enabled": true
-            },
-            {
-              "id": "1775529029515",
-              "title": "🍉西瓜卡通",
-              "href": "https://cn.xgcartoon.com/",
-              "description": "海量热门高清动漫，卡通，动画线上免费看。",
-              "icon": "https://cn.xgcartoon.com/xgct/icon/favicon.ico",
-              "enabled": true
-            },
-            {
-              "id": "1775529432706",
-              "title": "Aowu",
-              "href": "https://www.aowu.tv/",
-              "description": "访问 www.aowu.tv",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.aowu.tv",
-              "enabled": true
-            },
-            {
-              "id": "1775529559261",
-              "title": "布布影视",
-              "href": "https://bbys.app/",
-              "description": "专业免费观影平台，提供最新最快的视频分享数据，高清电影电视剧免费观看，无需VIP会员，支持在线追剧，最新影视资源实时更新",
-              "icon": "/assets/favicon_1775529564942.png",
-              "enabled": true
-            },
-            {
-              "id": "1775697916142",
-              "title": "7sefun",
-              "href": "https://www.7sefun.top/",
-              "description": "访问 www.7sefun.top",
-              "icon": "/assets/favicon_1775697920517.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "060a52ad-f76e-418f-b202-4e2bf771014b",
-          "title": "VIP视屏解析",
-          "icon": "Link",
-          "description": "VIP视屏地址解析",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1764740876594_60bqwysqi",
-              "title": "努力鸭视频解析",
-              "href": "https://www.nuliya.top/vip/",
-              "description": "努力鸭视频解析支持爱奇艺、腾讯视频、优酷、芒果TV、乐视视频、搜狐视频、bilibili哔哩哔哩（B站）、AcFun弹幕视频网（A站）等视频解析\n访问 www.nuliya.top",
-              "icon": "/assets/favicon_1764740826885.png",
               "enabled": true
             }
           ]
